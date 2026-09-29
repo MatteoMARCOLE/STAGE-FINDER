@@ -1,8 +1,12 @@
 import os
-
+from Database import Database
 import requests
+import subprocess
+
 from dotenv import load_dotenv
 
+bdd = Database("fichier.db")
+bdd.creer_bdd()
 
 # URLs France Travail
 URL_AUTH = (
@@ -48,6 +52,15 @@ if reponse_auth.status_code != 200:
 donnees_auth = reponse_auth.json()
 token = donnees_auth.get("access_token")
 
+subprocess.run(
+    ["clip.exe"],
+    input=token,
+    text=True,
+    check=True
+)
+
+print("Token copié dans le presse-papiers")
+
 if not token:
     raise Exception("Jeton d'accès manquant ou vide")
 
@@ -86,14 +99,17 @@ print(f"{len(offres)} offres récupérées")
 
 
 # Affichage de quelques offres
-for offre in offres[:5]:
-    titre = offre.get("intitule", "Titre inconnu")
-    entreprise = offre.get("entreprise", {}).get("nom", "Entreprise inconnue")
-    lieu = offre.get("lieuTravail", {}).get("libelle", "Lieu inconnu")
-    contrat = offre.get("typeContratLibelle", "Contrat inconnu")
 
-    print("\n------------------------------")
-    print("Titre :", titre)
-    print("Entreprise :", entreprise)
-    print("Lieu :", lieu)
-    print("Contrat :", contrat)
+"""for offre in offres:
+    bdd.ajouter_offre(
+        offre.get("id", ""),
+        offre.get("intitule", ""),
+        offre.get("entreprise", {}).get("nom", "Entreprise inconnue"),
+        offre.get("lieuTravail", {}).get("libelle", ""),
+        offre.get("typeContrat", ""),
+        offre.get("description", ""),
+        offre.get("dateCreation", ""),
+        offre.get("origineOffre", {}).get("urlOrigine", "")
+    )"""
+
+print(bdd.recuperer_offres())

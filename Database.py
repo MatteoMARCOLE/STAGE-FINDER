@@ -106,10 +106,3 @@ class Database:
 
         connexion.commit()
         connexion.close()
-
-bdd = Database("stages.db")
-
-bdd.creer_bdd()
-
-print(bdd.compter_offres())
-print(bdd.recuperer_offres())
