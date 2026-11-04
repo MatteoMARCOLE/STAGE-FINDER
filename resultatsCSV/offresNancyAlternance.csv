@@ -1,0 +1,1931 @@
+id,id_offre,titre,entreprise,lieu,contrat,description,date_creation,url
+1,214LDYT,Technicien support informatique H/F,CRIT INTERIM,54 - Villers-lès-Nancy,MIS,"Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le domaine des télécommunications, deux techniciens support informatique H/F.
+
+Au sein de l'établissement de Villers-lès-Nancy, sous la tutelle du responsable de service, vous participerez aux tâches suivantes :
+- Assurer la maintenance matérielle et logicielle
+- Assister les utilisateurs : connexion, accès et utilisation des logiciels 
+- Utiliser un outil de ticketing
+- Préparer les postes informatiques (configuration)
+- Installer des périphériques : imprimantes, TPE...
+- Préparation et gestion de devices mobiles avec MDM : iPad, PDA
+- Assurer la logistique : réception, préparation et expédition du matériel
+- Assurer le déploiement de matériels et d'applicatifs
+- Effectuer des tâches d'administration système et réseau
+- Rédiger et appliquer des procédures
+
+Des déplacements occasionnels au sein des magasins sont à prévoir (environ une fois par mois).
+
+Vous disposerez aussi des avantages CRIT : 
+- Taux horaire fixe + 10% fin de mission + 10% congés payés.
+- Compte Epargne Temps (CET) déblocable à tout moment.
+- Acompte de paie hebdomadaire si besoin.
+- Aides diverses (via FASTT) : mutuelle, logement, garde d'enfants, etc.
+- Application My Crit pour un suivi facile.
+- Comité Social et Économique (CSE) : cartes cadeaux, remboursement chèques vacances, etc.
+ Compétences et formations attendues:
+- Formation BAC+2 en informatique 
+- Première expérience sur poste similaire exigée
+- Capacité à travailler en équipe et à communiquer efficacement avec les utilisateurs
+- Bases en connaissances réseau (installation, analyse de problématiques) attendues
+",2026-09-25T16:49:49.762Z,https://candidat.francetravail.fr/offres/recherche/detail/214LDYT
+2,214KBKN,"TECH INFORMATIQUE,RESEAUX,TELECOM(h/f) (H/F)",ADECCO,54 - Dommartin-lès-Toul,CDI,"Pour l'un de ses clients, Adecco recrute un(e) Technicien(ne) Systèmes informatiques, réseaux et télécommunications. Vous intervenez sur un périmètre complet allant des postes de travail aux serveurs, en passant par les réseaux, la téléphonie sur IP et la vidéo-surveillance. 
+
+ - Assurer la gestion, l'installation et la maintenance du matériel informatique, notamment les postes informatiques et périphériques, ainsi que participer à l'administration et à l'exploitation de serveurs.
+ - Contribuer à la gestion, à l'installation et à la maintenance des logiciels courants sur les postes de travail, en veillant à leur bon fonctionnement pour l'ensemble des utilisateurs.
+ - Assurer l'assistance et le support technique, sur le matériel et les logiciels courants, en proximité ou à distance, incluant la gestion des sauvegardes régulières et le suivi des incidents.
+ - Sensibiliser les utilisateurs à la sécurité informatique, aux règles de bonnes pratiques et veiller à l'application des consignes d'exploitation définies par l'organisation.
+ - Assurer la gestion et la maintenance des installations de vidéo-surveillance, y compris le contrôle des systèmes de stockage, de diffusion et des équipements associés.
+ - Participer à la gestion de la téléphonie sur IP, assurer l'assistance aux utilisateurs et la maintenance des installations afin de garantir la continuité de service.
+
+
+ - Maîtriser l'architecture matérielle d'un poste de travail et disposer d'une connaissance générale des systèmes d'exploitation, notamment Windows et Linux, pour intervenir efficacement sur les équipements.
+ - Disposer de notions générales sur les configurations usuelles, les systèmes et outils bureautiques, ainsi que de notions générales sur les réseaux informatiques, la téléphonie sur IP et les systèmes de vidéo-surveillance.
+ - Savoir détecter et diagnostiquer les problèmes systèmes et réseaux, appliquer les règles de sécurité informatique et les consignes d'exploitation dans le cadre des interventions quotidiennes.
+ - Être capable de conduire un entretien d'assistance par téléphone, utiliser les outils de support à distance et dialoguer avec les utilisateurs en s'adaptant à leurs attentes respectives.
+ - Respecter les procédures en place, travailler en équipe, savoir gérer son temps et hiérarchiser les priorités dans un environnement soumis à des évolutions technologiques régulières.
+ - Faire preuve d'autonomie, de rigueur, d'organisation, de pédagogie, avec un bon esprit d'analyse et un bon sens du relationnel dans les échanges avec les différents interlocuteurs.
+ - Anglais : compréhension écrite et orale : niveau 1, permettant de comprendre des informations simples et de base, notamment dans une documentation technique ou des échanges standards.
+ - Être en possession d'un permis de conduire valide afin d'assurer les déplacements nécessaires liés aux interventions et aux besoins opérationnels du poste.
+",2026-09-24T19:12:16.545Z,https://candidat.francetravail.fr/offres/recherche/detail/214KBKN
+3,214GBLC,Ingénieur production IT (H/F),SERA,54 - Nancy,CDI,"Nous recherchons pour notre client un Ingénieur DevOps / Production IT avec présence sur site 5 jours par semaine.
+
+A ce titre vos missions sont : 
+
+Vous intervenez sur l'exploitation des applications Web et Mobile et contribuez à leur fiabilité et à leur industrialisation.
+
+Dans ce cadre, vous participez à la conception, la mise en œuvre et le maintien en conditions opérationnelles des composants middleware et applicatifs. Vous contribuez aux projets d'évolution du SI, notamment aux migrations vers des environnements conteneurisés, et travaillez en étroite collaboration avec les équipes de développement afin d'automatiser les déploiements, les tests et l'intégration continue via des outils CI/CD.
+
+Vous assurez la mise à disposition et la gestion des environnements (développement, recette, préproduction, production) dans une logique d'industrialisation, ainsi que la supervision des plateformes techniques en coordination avec les équipes infrastructures.
+
+Au quotidien, vous suivez le fonctionnement des plateformes, gérez les incidents de production, réalisez les diagnostics et mettez en œuvre les actions correctives nécessaires. Vous participez également à la conduite des changements, au suivi des indicateurs techniques et de sécurité, ainsi qu'à l'amélioration continue des processus DevOps et d'automatisation.
+
+Vous contribuez à l'industrialisation des tests techniques, au développement de scripts d'automatisation et à l'optimisation des performances et des coûts dans une approche FinOps et DevSecOps.
+
+Le poste implique la participation à des interventions en heures non ouvrées et à des astreintes hebdomadaires 24/7.
+
+Vous disposez d'une expérience confirmée en tant qu'ingénieur DevOps ou ingénieur de production, avec une bonne maîtrise des pratiques d'industrialisation, d'automatisation et d'exploitation applicative.
+
+Vous maîtrisez les systèmes Linux et Windows et possédez une expérience solide des technologies de conteneurisation telles que OpenShift, Kubernetes, Docker ou Podman.
+
+ Vous êtes à l'aise avec les outils CI/CD (Jenkins, Git, Bitbucket, XL Deploy, XL Release, Argo CD) ainsi qu'avec les outils d'automatisation et de configuration comme Ansible ou Terraform.
+
+Des compétences en scripting (Bash, Python, PowerShell), en supervision (ELK, Zabbix, Grafana, Prometheus, AppDynamics) et en ordonnancement (VTOM ou Control-M) sont également attendues.
+
+Vous êtes reconnu pour vos capacités d'analyse et de résolution d'incidents, votre rigueur, ainsi que votre capacité à travailler en équipe dans un environnement technique transverse.
+
+Un niveau de français courant est requis ainsi qu'un anglais technique lu et écrit. Une première expérience en pilotage de projet constitue un plus.
+
+
+
+ Les avantages du modèle JOCAD
+
+En rejoignant JOCAD IT, vous bénéficiez d'un environnement structuré et attentif au bien-être des collaborateurs :
+
+ * Mutuelle & Prévoyance familiales complètes
+ * Tickets restaurant (Swile)
+ * Prime Vacances Syntec
+ * Plan de développement des compétences pour accompagner votre évolution
+ * Nombreuses offres CSE via Club Employés (réductions, loisirs, culture, voyages.)
+
+Un cadre clair, des avantages concrets, et un accompagnement réel pour avancer sereinement dans votre carrière.",2026-09-22T14:29:58.452Z,https://candidat.francetravail.fr/offres/recherche/detail/214GBLC
+4,214GTLC,Administrateur-trice des systèmes d'information - NANCY (H/F),RECTORAT DE L'ACADEMIE DE NANCY-METZ,54 - Meurthe-et-Moselle,CDD,"La personne recrutée fera partie du pôle gouvernance de la donnée du Département des services numériques et données (SND), département constitué actuellement de 20 informaticiens/ciennes. Le pôle gouvernance de la donnée :
+-        Administre les plates-formes de gestion et de visualisation de données (BO, Digdash)
+-        Collecte, prépare et intègre les données dans le SI (ETL)
+-        Met à disposition des tableaux de bord de pilotage
+-        Forme les utilisateurs
+-        Met en place des modèles et solutions IA
+La personne recrutée sera chargée d'administrer les systèmes d'information en lien avec la donnée : outils ETL, entrepôt de données, reporting, visualisation de données.
+Activités principales : 
+-        Il/elle participe à l'administration et à la maintenance du système d'information relatif aux données : entrepôt de données, visualisation de données, ETL.
+-        En relation avec les administrateurs système, il/elle paramètre et met à jour les bases de données. 
+-        Il/elle assiste les utilisateurs dans leurs usages des applications de l'académie en lien avec la donnée (Support N1, N2)
+-        Afin de maintenir un système d'information optimal, il/elle installe et utilise des outils d'optimisation, de surveillance, de correction ou de consultation des bases
+Activités associées :
+-        Il/elle participe à l'élaboration d'outils de contrôle et de gestion : scripts, procédures, requêtes, supervision, reporting.
+
+Conditions particulières d'exercice : 
+
+Connaissance, savoir :
+Connaissance des systèmes de gestion de bases de données employés (Postgresql, DB2, MariaDB), les langages de requête (SQL) et les outils de script correspondants
+Connaissances des outils de reporting et décisionnels (Business Object)
+Connaissance des ETL (Apache HOP, ODI)
+Connaissance des outils de visualisation de données (Digdash)
+Connaissance de Linux et de l'administration système
+La connaissance du système d'information de l'Education Nationale est un plus.
+ 
+Savoir-faire :
+Administration des systèmes d'information
+              -        Spécifier les modèles physiques de données
+Savoir conseiller les différents utilisateurs
+Analyser les incidents et proposer des solutions
+Rédiger des rapports, des notes techniques et des procédures d'exploitation
+Assurer une veille technologique dans le domaine des bases de données
+Une expérience dans l'IA en lien avec les données est un plus.
+
+Profil recherché : 
+
+Connaissance, savoir :
+   - Maîtrise d'au moins un langage de développement (Python, Perl, Go, Java, .)
+   - Pratique de forge logicielle (Gitlab, ...), des outils associés (Git, Subversion)
+   - Bonne maîtrise des environnements Linux
+   - Bonne connaissance des écosystèmes conteneurisés : Docker/Podman/Kubernetes
+   - Connaissance des concepts agiles (Devops, Scrum) et ITIL (Gestion des configurations, Incident, Changement, ...)
+   - Anglais technique
+
+Savoir-faire :
+   - Comprendre et analyser les besoins des utilisateurs
+   - Curiosité et ouverture aux technologies de pointe
+   - Bonnes capacités rédactionnelles
+
+Savoir être :
+   - Créativité / Sens de l'innovation
+   - Esprit d'équipe et bon relationnel
+
+Formation et expérience professionnelle
+Une expérience dans le domaine de l'observabilité est indispensable.",2026-09-23T08:48:06.914Z,https://candidat.francetravail.fr/offres/recherche/detail/214GTLC
+5,213DFFY,Assistant  numérique (TICE)  (H/F),GRETA-CFA LORRAINE CENTRE,54 - Laxou,CDD,"Nous recherchons, pour notre site situé au sein du Lycée HERE à LAXOU, un assistant TICE (technologie de l'information et de la communication pour l'enseignement)
+
+Principales missions :
+Sous la responsabilité du chef d'établissement support du GRETA-CFA Lorraine Centre et du chef d'établissement du Lycée E. HERE. En lien avec les chargés de maintenance informatique du lycée E. Héré (CMIL) ainsi que l'équipe administrative et pédagogique, vous aurez pour missions :
+Support aux formateurs et aux apprenants
+- Assurer l'accueil et l'accompagnement des apprenants dans l'utilisation des outils numériques.
+- Aider à la prise en main des plateformes numériques
+- Apporter un soutien personnalisé aux publics en difficulté avec le numérique.
+Gestion et maintenance de premier niveau
+- Gérer le parc informatique (installation de base, mises à jour, configuration, suivi du matériel).
+- Veiller au bon fonctionnement des équipements numériques (ordinateurs, vidéoprojecteurs, imprimantes, tablettes.).
+- Assurer un premier niveau de diagnostic en cas de dysfonctionnement et faire le lien avec les services techniques (diagnostic et suivi des pannes)
+Appui pédagogique numérique
+- Préparer les salles et équipements pour les enseignants/formateurs.
+- Participer à la mise en place d'outils pédagogiques numériques.
+- Contribuer à l'accompagnement des enseignants/formateurs dans leurs usages TICE.
+Administration et vie de l'établissement 
+- Participer à l'encadrement des publics lorsqu'ils sont en autonomie dans les salles informatiques.
+- Aider à la gestion des inscriptions en ligne, accès ENT, créations de comptes.
+- Contribuer à la mise en œuvre des projets numériques de l'établissement.
+
+
+Les missions sont réalisées dans le respect des protocoles et référentiels, des règles de déontologie (discrétion, devoir de réserve, confidentialité des informations) et de sécurité en vigueur. Il est garant de la charte informatique et d'assure de la conformité RGPD des données qu'il manipule. 
+L'assistant TICE peut être amené à renforcer l'équipe de vie scolaire au regard des situations et des besoins. 
+Profil recherché
+- Niveau baccalauréat minimum.
+- Maîtrise des outils informatiques courants (suite bureautique, navigation, outils collaboratifs).
+- Connaissance du matériel informatique, réseaux TCP/IP, du paramétrage d'imprimantes et photocopieurs
+- Aisance relationnelle, pédagogie et sens du service public.
+- Capacité à accompagner des publics adultes, parfois éloignés du numérique.
+- Autonomie, rigueur, sens de l'organisation.
+- Une expérience en accompagnement numérique, médiation ou support informatique est un plus.",2026-08-31T14:10:49.554Z,https://candidat.francetravail.fr/offres/recherche/detail/213DFFY
+6,7478726,INGÉNIEUR ÉTUDES ET DÉVELOPPEMENT INFORMATIQUE (H/F),Randstad professional,54 - Nancy,MIS,"Nous recherchons pour le compte de notre client, un Analyste Développeur C#/.NET (H/F) pour intervenir en assistance technique sur des projets applicatifs exigeants.Dans le cadre d'une tâche basée à Nancy, votre rôle sera de participer activement au développement, à l'évolution et à la maintenance d'applications web et logicielles.
+
+Vos principales responsabilités seront les suivantes :
+Analyse et Conception : Analyser les besoins fonctionnels et techniques afin de concevoir et développer des applications adaptées sous l'environnement C#/.NET.
+Maintenance et Évolution : Assurer la maintenance évolutive et corrective du parc applicatif existant.
+Qualité et Tests : Rédiger et exécuter les tests unitaires et d'intégration afin de garantir la fiabilité et la performance des livrables.
+Documentation et Process : Prendre en charge la rédaction documentaire liée aux développements, dans le respect strict du Système de Management de la Qualité (normes ISO 9001 et ISO 27001).
+Collaboration : Travailler en étroite synergie avec les équipes techniques et métiers pour assurer la cohérence des solutions déployées.
+
+Le poste est proposé dans le cadre d'une longue tâche en assistance technique à temps plein, sans déplacement à prévoir et le salaire est à négocier en fonction de votre expérience.",2026-09-29T05:10:29.589Z,https://candidat.francetravail.fr/offres/recherche/detail/7478726
+13,7426690,Technicien support informatique H/F,Entreprise inconnue,54 - Villers-lès-Nancy,MIS,"Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le domaine des télécommunications, deux techniciens support informatique H/F.Au sein de l'établissement de Villers-lès-Nancy, sous la tutelle du responsable de service, vous participerez aux tâches suivantes :- Assurer la maintenance matérielle et logicielle- Assister les utilisateurs : connexion, accès et utilisation des logiciels - Utiliser un outil de ticketing- Préparer les postes informatiques (configuration)- Installer des périphériques : imprimantes, TPE...- Préparation et gestion de devices mobiles avec MDM : iPad, PDA- Assurer la logistique : réception, préparation et expédition du matériel- Assurer le déploiement de matériels et d'applicatifs- Effectuer des tâches d'administration système et réseau- Rédiger et appliquer des procéduresDes déplacements occasionnels au sein des magasins sont à prévoir (environ une fois par mois).Vous disposerez aussi des avantages CRIT : - Taux horaire fixe + 10% fin de mission + 10% congés payés.- Compte Epargne Temps (CET) déblocable à tout moment.- Acompte de paie hebdomadaire si besoin.- Aides diverses (via FASTT) : mutuelle, logement, garde d'enfants, etc.- Application My Crit pour un suivi facile.- Comité Social et Économique (CSE) : cartes cadeaux, remboursement chèques vacances, etc.",2026-09-26T12:03:51.764Z,https://candidat.francetravail.fr/offres/recherche/detail/7426690
+14,7347428,Informaticien exploitation de données (H/F),Entreprise inconnue,54 - Nancy,CDI,"Description du poste Réaliser le développement et la maintenance des systèmes d'information du CERHS.
+-Administrer les serveurs informatiques du CERHS et réaliser les mises à jour des référentiels sur les bases de données.
+-Réaliser l'administration des données de l'informatique décisionnelle (Dataiku).
+-Assurer la maintenance des communautés de travail du CERHS.
+
+Description du profil :
+
+Le candidat doit avoir des connaissances prouvées en développement et/ou en administration technique des données. Agissant au profit des gestionnaires RH-Solde, il doit avoir une appétence pour débugger les intéressés rapidement.",2026-09-25T03:19:19.413Z,https://candidat.francetravail.fr/offres/recherche/detail/7347428
+15,7169327,Technicien Informatique / Administrateur Systèmes en alternance H/F,MY DIGITAL SCHOOL,54 - Toul,CDD,"Missions
+
+Au sein de l'équipe informatique, vous participerez activement au bon fonctionnement, à la maintenance et à l'évolution des infrastructures systèmes et des postes de travail. Cette alternance vous permettra de développer une vision concrète des environnements techniques en entreprise, tout en contribuant à la qualité de service apportée aux utilisateurs.
+
+Vos principales missions
+
+- Assurer le support de niveau 1 et 2 auprès des utilisateurs, en traitant les incidents et les demandes dans le respect des délais définis.
+- Installer, configurer et maintenir les postes de travail, périphériques et logiciels métiers.
+- Participer à l'administration courante des serveurs, des comptes utilisateurs et des droits d'accès.
+- Contribuer à la supervision des systèmes, à la détection des anomalies et au suivi des alertes techniques.
+- Réaliser les opérations de maintenance préventive et corrective sur les infrastructures informatiques.
+- Participer à la gestion des sauvegardes, des restaurations et à la vérification de leur bon fonctionnement.
+- Documenter les procédures techniques, les interventions réalisées et les configurations mises en place.
+- Collaborer aux projets d'évolution du système d'information, notamment lors des déploiements ou des mises à jour.
+- Veiller au respect des bonnes pratiques de sécurité informatique et des règles internes en vigueur.
+
+Environnement de travail
+
+Vous évoluerez dans un cadre structuré, au contact d'interlocuteurs variés, avec un accompagnement favorisant la montée en compétences sur les aspects techniques, organisationnels et méthodologiques du métier.
+  
+ Profil recherché
+
+Nous recherchons un candidat motivé, rigoureux et désireux de développer ses compétences au sein d'un environnement technique structuré. Cette alternance s'adresse à une personne souhaitant s'investir dans des missions variées, au contact des utilisateurs comme des équipes techniques, avec un réel sens du service et de la qualité de prise en charge.
+
+Compétences attendues
+
+- Support informatique : vous êtes à l'aise dans le traitement des incidents et des demandes utilisateurs, avec une capacité à qualifier les besoins, apporter un premier niveau de réponse et escalader les situations complexes de manière pertinente.
+- Administration systèmes : vous disposez d'un intérêt marqué pour l'administration courante des serveurs, la gestion des comptes, des droits d'accès et le suivi des environnements techniques.
+- Gestion des postes de travail : vous savez installer, configurer et maintenir des postes, périphériques et logiciels, en veillant à la continuité de service et à la fiabilité des équipements.
+- Supervision système : vous êtes capable de suivre des alertes, d'identifier des anomalies et de participer à la surveillance du bon fonctionnement des infrastructures.
+- Sauvegarde et restauration : vous comprenez les enjeux liés à la protection des données et participez aux contrôles, tests et opérations de restauration avec méthode et précision.
+- Sécurité informatique : vous appliquez avec sérieux les règles de sécurité, les bonnes pratiques internes et les consignes visant à préserver l'intégrité du système d'information.
+- Documentation technique : vous savez formaliser clairement les procédures, les interventions et les configurations afin de garantir la traçabilité et la transmission des informations.
+
+Qualités personnelles recherchées
+
+- Communication : vous vous exprimez avec clarté, à l'écrit comme à l'oral, et savez adapter votre discours à des interlocuteurs variés.
+- Sens du service : vous accordez une attention particulière à la satisfaction des utilisateurs et à la qualité des réponses apportées.
+- Rigueur : vous travaillez avec méthode, précision et sens de l'organisation, dans le respect des procédures et des délais.
+- Esprit d'analyse : vous êtes capable de comprendre une situation technique, d'en identifier les causes possibles et de proposer des actions adaptées.
+- Travail en équipe : vous appréciez la collaboration, le partage d'informations et l'entraide au sein d'un collectif technique.
+- Adaptabilité : vous savez faire preuve de souplesse face à des priorités évolutives et à des contextes techniques variés.
+
+Votre profil
+
+Vous préparez une formation en informatique, systèmes et réseaux, ou dans un domaine équivalent, et souhaitez consolider vos acquis par une expérience concrète en entreprise. Vous manifestez un intérêt réel pour les environnements systèmes, le support aux utilisateurs et la maintenance des infrastructures.
+
+Votre curiosité technique, votre sérieux et votre capacité à apprendre rapidement vous permettront de progresser efficacement dans vos missions. Vous savez faire preuve de discrétion, de professionnalisme et d'un bon sens des priorités dans la gestion de vos activités quotidiennes.
+
+Ce que nous apprécierons particulièrement
+
+- Une première connaissance des environnements Windows, des outils de support ou des notions de réseau.
+- Une volonté d'apprendre les ...",2026-09-24T14:35:37.456Z,https://candidat.francetravail.fr/offres/recherche/detail/7169327
+16,6830742,Carsat Nord Est - Développeur / Développeuse informatique (H/F),Carsat Nord Est,54 - Nancy,CDI,"Vous souhaitez exercer une mission qui a du sens, au sein d'un réseau dynamique ? Rejoignez-nous !
+Bienvenue à la Carsat Nord-Est ! Nos valeurs sont fortes et vous les incarnerez au quotidien : respect, confiance, responsabilité et solidarité.
+Nous sommes une des 15 caisses d'assurance retraite et de la santé au travail (Carsat) du réseau de l'Assurance retraite piloté par la Caisse nationale d'assurance vieillesse (Cnav). L'Assurance retraite compte plus de 14 000 agents dans l'ensemble de son réseau, avec une diversité de parcours et une grande variété de métiers.
+Depuis son siège social situé à Nancy et à travers son réseau d'agences retraite, antennes prévention et services sociaux, la Carsat Nord-Est, entreprise de droit privé de plus de 850 agents gérant un service public, renseigne et conseille le public et les entreprises des sept départements de Lorraine et Champagne-Ardenne (sauf la Moselle).
+Le Centre de Développement SIRH de la Branche Retraite de la Sécurité Sociale, basé à la Carsat Nord-Est à Nancy, assure la maîtrise d'œuvre nationale du Système d'Information des Ressources Humaines de la Branche Retraite. Il travaille en étroite collaboration avec la maîtrise d'ouvrage SIRH également implantée à la Carsat Nord-Est afin de concevoir, développer et maintenir les applications du domaine SIRH utilisées par les organismes de la Branche Retraite.
+Dans le cadre du renforcement de son équipe, le Centre de Développement SIRH recrute un Concepteur Développeur / une Conceptrice Développeuse pour intervenir sur les évolutions et la maintenance de la solution HR Access Suite 9 / HR 4YOU.
+Vos missions
+Le poste est basé à Nancy.
+Vous intégrez une équipe de 5 agents et participez à l'ensemble du cycle de vie des projets dans le respect des méthodes et procédures de la DSI.
+Vous êtes notamment en charge de :
+
+Analyser et décrypter les cahiers des charges afin d'identifier les impacts fonctionnels et techniques ;
+Rédiger les spécifications techniques ;
+Réaliser les développements informatiques nécessaires ;
+Concevoir et exécuter les tests unitaires ;
+Rédiger la documentation associée au cycle de vie des projets ;
+Prendre en charge le support niveau 2 ;
+Collaborer avec la MOA, la DSI de la Branche Retraite, l'éditeur du progiciel et les partenaires internes/externes.
+
+Formation
+
+Vous êtes titulaire d'un diplôme Bac +3 à Bac +5 dans le domaine informatique (BUT, Bachelor, Master, MIAGE .)
+
+Compétences techniques
+Vous disposez de connaissances ou d'une expérience dans plusieurs des domaines suivants :
+
+Analyse, conception et maintenance d'applications ;
+Rédaction de spécifications techniques ;
+SQL et bases de données relationnelles ;
+Développement Java ;
+Connaissances COBOL appréciées ;
+
+Une expérience ou une connaissance du progiciel HR Access Suite 9 ou de sa dernière release HR 4YOU constitue un atout majeur.
+À défaut, une expérience sur un progiciel intégré de gestion des ressources humaines ou de paie sera particulièrement appréciée.
+Compétences fonctionnelles appréciées
+
+Gestion administrative du personnel ;
+Gestion de la paie ;
+Systèmes d'Information des Ressources Humaines (SIRH) ;
+Réglementation sociale et RH.
+
+Qualités attendues
+Pour réussir dans ce poste, vous faites preuve de :
+
+Rigueur et sens de l'organisation ;
+Capacités d'analyse et de synthèse ;
+Bonnes qualités rédactionnelles ;
+Esprit d'équipe ;
+Aptitude à travailler en mode projet ;
+Capacité à collaborer avec des interlocuteurs variés, internes et externes ;
+Autonomie et sens des responsabilités ;
+Goût pour la compréhension des problématiques métiers RH et Paie.
+
+Dans le cadre de sa politique de diversité, la Carsat Nord-Est soutient l'égalité Femmes/ Hommes et favorise l'insertion professionnelle, l'accès et le maintien dans l'emploi des personnes en situation de handicap. Toutes les candidatures sont les bienvenues.
+Le poste nécessite la possession d'un titre de séjour en cours de validité autorisant l'exercice d'une activité professionnelle en France (hors EEE/Suisse).
+Informations complémentaires
+A la Carsat Nord-Est, nous offrons à nos agents :
+- Télétravail sous conditions et horaires variables (lundi -vendredi),
+- Espace collectif restauration au siège (Frigos connectés, livraison repas, etc.), Tickets restaurant,
+- Complémentaire santé obligatoire avantageuse,
+- Intéressement lié aux résultats collectifs de l'entreprise,
+- Monétisation possible sous conditions RTT ou CA épargnés sur CET, dispositif d'épargne salariale,
+- Forfait mobilité durable (vélo, co-voiturage, etc.), prise en charge à 75% des transports en commun.
+Vous souhaitez nous rejoindre ? Envoyez votre candidature accompagnée d'un CV et d'une lettre de motivation le 02/10/2026 au plus tard.",2026-09-11T21:20:44.864Z,https://candidat.francetravail.fr/offres/recherche/detail/6830742
+17,6739221,Informaticien exploitation de données (H/F),Entreprise inconnue,54 - Nancy,CDI,"Description du poste Réaliser le développement et la maintenance des systèmes d'information du CERHS.
+-Administrer les serveurs informatiques du CERHS et réaliser les mises à jour des référentiels sur les bases de données.
+-Réaliser l'administration des données de l'informatique décisionnelle (Dataiku).
+-Assurer la maintenance des communautés de travail du CERHS.
+
+Description du profil :
+
+Le candidat doit avoir des connaissances prouvées en développement et/ou en administration technique des données. Agissant au profit des gestionnaires RH-Solde, il doit avoir une appétence pour débugger les intéressés rapidement.",2026-09-09T03:19:46.572Z,https://candidat.francetravail.fr/offres/recherche/detail/6739221
+18,3830218,Responsable Support Informatique de Proximité (H/F),Entreprise inconnue,54 - Nancy,CDI,"Description du poste :
+
+Affecté au bureau soutien interne du CERHS, sous les ordres du chef de la cellule ""soutien de proximité"", les missions du titulaire du poste sont Assurer la fonction de CORrespondant des Systèmes d'Information et de Communication (CORSIC) pour le CERHS de Nancy. A ce titre, il traite avec le CAN (Centre d'Appui au Numérique) de rattachement de toutes les questions de soutien SIC Procurer une assistance informatique technique de premier niveau en assistant les utilisateurs dans l'utilisation des moyens informatiques (messagerie, communautés de travail, Skype, applications métiers Traiter et suivre les tickets DIADEME Participer à l'animation et le suivi des actions relatives à la gestion du parc informatique, téléphonique et le suivi des comptes utilisateurs Contrôler la bonne application des mesures de cybersécurité et de la réglementation associée : assurer des séances de sensibilisation SSI
+- Participer au suivi des attestations d'engagement de responsabilité des 350 agents du centre.
+
+Description du profil :
+
+Une expérience dans le domaine de l'informatique est indispensable : connaissance des environnements bureautique, réseau, etc.
+Une bonne pédagogie est nécessaire : dépannage et accompagnement des utilisateurs.
+Vous avez des connaissances significatives dans les règles élémentaires d'hygiène cyber est un plus appréciable.
+Votre autonomie et votre réactivité sont essentielles à l'accomplissement de ces missions.
+Toutes formations auprès du CFD (Centre de Formation de la Défense) seront possibles à la prise de poste.",2026-06-16T10:39:56.000Z,https://candidat.francetravail.fr/offres/recherche/detail/3830218
+19,7430885,TECHNICIEN - EQUIPE DOSSIER PATIENT INFORMATISE - 100% - H/F,Les Hôpitaux Sud Lorraine,54 - Nancy,CDD,"Description :
+
+
+LE DÉPARTEMENT TERRITORIAL DE LA TRANSFORMATION NUMÉRIQUE ET DE L'INGÉNIERIE BIOMÉDICALE DU CHRU DE NANCY recrute un Technicien supérieur hospitalier pour le déploiement et la maintenance des logiciels du dossier patient informatisé sur le Groupement Hospitalier de Territoire Sud Lorraine sur le site des Hôpitaux urbains
+
+LE DTNIB 
+
+Le Département Territorial de la Transformation Numérique et de l'Ingénierie Biomédicale (DTNIB) du CHRU de Nancy regroupe trois secteurs clés qui collaborent étroitement pour mener à bien les projets de l'hôpital et offrir des services de soutien aux métiers des établissements de santé, assurant ainsi une prise en charge optimale des patients.
+
+1.      SYSTÈME NUMÉRIQUE :
+
+Ce secteur est chargé de la gestion et de l'optimisation des infrastructures numériques de l'hôpital.
+
+Il garantit la sécurité des données, la maintenance des systèmes informatiques, l'accès aux applications métier et le développement de nouvelles solutions technologiques pour améliorer les services de santé.
+
+2.      BIOMÉDICAL :
+
+Le secteur biomédical se concentre sur l'intégration, la maintenance, la gestion et l'innovation des équipements médicaux.
+
+Il veille à ce que les dispositifs médicaux soient toujours à la pointe de la technologie et fonctionnent de manière optimale pour garantir des soins de qualité aux patients.
+
+3.      COORDINATION DE L'ACCOMPAGNEMENT MÉDICO-ADMINISTRATIF DU PATIENT :
+
+Ce secteur joue un rôle crucial dans l'accompagnement des patients tout au long de leur parcours de soins.
+
+Il coordonne les aspects administratifs et médicaux pour assurer une prise en charge fluide et efficace, en facilitant la communication entre les différents services de l'hôpital.
+
+EN TRAVAILLANT ENSEMBLE, CES TROIS SECTEURS PERMETTENT AU DTNIB DE RÉALISER DES PROJETS INNOVANTS ET DE GARANTIR UNE PRISE EN CHARGE OPTIMALE DES PATIENTS AU SEIN DU GHT SAUD LORRAINE.         
+
+ 
+
+LE POSTE
+
+SERVICE : Département territorial de la Transformation Numérique et de l'Ingénierie Biomédicale
+
+HORAIRES : 39h minimum par semaine
+
+ 
+
+FONCTIONS ET ACTIVITÉS
+
+ DESCRIPTION DES MISSIONS : 
+
+Pour l'ensemble du GHT Sud Lorraine,
+
+ * Il assure les activités d'évolution et de maintenance corrective et applicative du système d'information autour du parc de logiciels du dossier patient informatisé et du laboratoire.
+ * Il en assure aussi le support de niveau 2 et le conseil dans le respect du contrat de services dans toutes ses composantes (Qualité, sécurité, ...).
+ * Il est aussi le garant du maintien des connaissances fonctionnelles et techniques nécessaires à la pérennité de l'application.
+ * Au sein de l'équipe projet, il contribue au choix des différents composants SI (progiciels, bases de données, développements spécifiques...)
+ * Il en assure l'assemblage dans le respect du plan d'urbanisme des systèmes d'information de l'entreprise et de l'architecture retenue pour le projet.
+ * Il assure la cohérence des flux inter-applications, de l'intégrité des données et de la sécurité de l'ensemble.
+
+DESCRIPTION DES ACTIVITÉS :
+
+L'intégrateur d'application intervient dans la mise en œuvre d'applications nouvelles ou existantes
+
+Identification et sélection des composants techniques du projet :
+
+ * Définit, sous la responsabilité du chef de projet informatique, l'architecture fonctionnelle et technique du système d'information sur le périmètre applicatif dont il a la charge
+ * Utilise les objets existants de la cartographie des réutilisables
+
+Réception, validation et assemblage de ces composants :
+
+ * Assemble et intègre les différents composants
+ * Peut effectuer les tests et recettes dans une phase de pré-exploitation
+
+Définition des interfaces et des éventuelles évolutions à apporter aux composants pour permettre leur intégration :
+
+ * Le cas échéant, modifie ou créée de nouveaux composants
+ * Définit et réalise des interfaces
+
+Fourniture du système développé à l'intégrateur d'exploitation :
+
+ * Participe, avec la maîtrise d'ouvrage, à l'élaboration de didacticiels
+ * Documente le système livré
+ * Livre la solution à l'intégrateur d'exploitation
+
+Sécurité du système d'information :
+
+ * Prendre connaissance du référentiel de sécurité de l'établissement (règlement intérieur, charte de bon usage informatique, politiques pertinentes dans le cadre de l'activité exercée)
+ * Appliquer les règles définies dans ce référentiel de sécurité
+
+
+  
+  
+Profil recherché :
+  
+  
+De formation supérieure en informatique (Bac + 2/+3)
+
+GRADE CIBLÉ : Technicien Supérieur Hospitalier
+
+DATE LIMITE DE DÉPÔT DES CANDIDATURES :  22 SEPTEMBRE 2026
+
+POUR LE PERSONNEL DU CHRU DE NANCY, NOUS VOUS REMERCIONS D'INDIQUER VOTRE NUMÉRO DE MATRICULE SUR VOTRE CANDIDATURE OU DE JOINDRE COMPLÉTÉ, LE MODÈLE DE LETTRE DE MOTIVATION DISPONIBLE SUR L'INTRANET ACCOMPAGNÉ D'UN CV À JOUR.
+",2026-09-26T19:34:55.034Z,https://candidat.francetravail.fr/offres/recherche/detail/7430885
+20,7399600,référent métiers H/F - EC9876,Département Meurthe et Moselle,54 - Nancy,CDI,"référent métiers H/F - EC9876 
+MISSION : le référent SI métiers accompagne les métiers d ... cherche et la mise en œuvre d'outils informatiques. Il a un portefeuille d'applications et de projets qu'il doit gérer au quotidien. Il assure l'interface entre les éditeurs des solutions progicielles déployées d ... llectivité et les utilisateurs, surveille la continuité de service informatique, met à jour les applications métiers.
+
+ACTIVITES
+
+-       Conçoit, en lien avec les chefs de projet, les cahiers de recette fonctionnelle et de reprise de données
+
+-       Réalise des tests de reprises de données de masse
+
+-       Accompagne des utilisateurs lors des tests fonctionnels et de reprise de données
+
+-       Accompagne et soutient les utilisateurs avant et pendant la mise en place de progiciel et/ou logiciel.
+
+-       Alimente les outils de suivi d'activités, de cartographie du SI et la base de connaissances.
+
+-       Effectue la maintenance corrective et évolutive à l'aide des outils et des ressources de l'éditeur.
+
+-       Trace les évolutions du produit et des interventions d ... ase de connaissance
+
+
+
+
+Projets
+
+-       Accompagne les métiers d ... cherche et la mise en œuvre de nouveaux outils informatiques
+
+-       Participation à la définition des besoins des services
+
+-       Prépare en amont les éléments de chiffrage.
+
+-       Défini les objectifs et les délais de réalisation.
+
+-       Supervise et coordonne le travail de l'ensemble des acteurs.
+
+-       Participe aux appels d'offres.
+
+
+Référence de l'offre : p062e9k0ey",2026-09-25T21:03:24.299Z,https://candidat.francetravail.fr/offres/recherche/detail/7399600
+21,7155572,Technicien numérique de proximité  H/F,Université de Lorraine,54 - Nancy,CDD,"RESPONSABILITÉS : 
+
+Au sein de la Direction du Numérique, sous-direction « Services aux Usagers » - Pôle Proximité, vous assurez le support numérique de proximité pour les composantes et services de l'université sur le périmètre de Nancy ou Metz.
+Vos missions principales :
+ -  Installer et maintenir les équipements : postes informatiques, périphériques, équipements réseau, matériels audiovisuels ; réaliser le câblage, le brassage et la détection de défauts ; déployer et mettre à jour les logiciels dans le respect des procédures et des règles de sécurité
+ -  Assister et accompagner les utilisateurs : sensibiliser aux bonnes pratiques de sécurité et à la charte informatique, participer aux actions de formation et d'accompagnement, recueillir et remonter les besoins d'amélioration fonctionnelle ou matérielle
+ -  Gérer les incidents de premier niveau : détecter les pannes matérielles, établir un premier diagnostic, résoudre les incidents ou les escalader, rédiger les comptes rendus d'intervention et suivre les tickets dans les outils dédiés
+ -  Contribuer aux projets et services numériques : participer à des groupes de travail thématiques, s'impliquer dans les projets de la Direction du Numérique, être force de proposition pour l'amélioration continue des services
+ -  Assurer le suivi du parc et des stocks : tenir à jour l'inventaire (GLPI), suivre les licences logicielles, gérer les stocks de matériels et consommables, contribuer à l'élaboration de devis et à la rédaction ou mise à jour de procédures internes
+
+PROFIL RECHERCHÉ : 
+
+De formation informatique, vous disposez de solides compétences techniques en systèmes et réseaux, et appréciez le contact avec les utilisateurs. Rigoureux et pédagogue, vous savez intervenir en proximité dans un environnement universitaire multi-sites.
+ -  Connaissances techniques : systèmes, réseaux, architectures matérielles ; environnements Windows, MacOS, Linux et notions d'administration ; bases en sécurité des systèmes d'information ; diagnostic et résolution de pannes
+ -  Outils et méthodes : utilisation d'outils de gestion de parc (type GLPI), techniques d'installation et de maintenance, application des normes et procédures internes
+ -  Capacités organisationnelles : savoir prioriser les incidents, gérer les urgences, planifier ses interventions et respecter les délais
+ -  Compétences relationnelles : sens du service, écoute des différents publics (enseignants-chercheurs, personnels, étudiants), diplomatie, qualités de communication
+ -  Qualités personnelles : rigueur, fiabilité, réactivité, sens de l'organisation, goût pour le travail en équipe
+ -  Langues : anglais technique souhaité pour la lecture de documentations et la compréhension d'outils
+ -  Habilitations : habilitation électrique appréciée ou volonté de la passer à la prise de poste
+Si cette offre d'emploi vous intéresse, n'hésitez pas à envoyer votre candidature avant le 15 Octobre",2026-09-24T04:31:35.492Z,https://candidat.francetravail.fr/offres/recherche/detail/7155572
+22,7057398,Ingénieur d'étude Java H/F,VIVERIS,54 - Nancy,CDI,"Viveris est un groupe de conseil et d'ingénierie spécialisé dans la conduite et la réalisation de projets dans les domaines de l'informatique et de l'électronique.
+
+S'engager avec Viveris, c'est l'assurance de relever des défis techniques et humains tout en travaillant sur des projets innovants dans un environnement collaboratif et solidaire. 
+
+        Contexte de la mission :
+
+Pour accompagner notre client, Ministère d'état, nous recrutons un Ingénieur d'étude Java (H/F).Intégré dans une petite équipe de développement, vous participez à l'évolution de l'application de gestion des voeux d'affectation dans l'enseignement.
+ Responsabilités :
+ 
+
+ - Analyse fonctionnelle et technique, analyse d'impact;
+ - Rédaction de spécifications fonctionnelles et techniques;
+ - Conception, participation à la définition d'architecture;
+ - Développement et tests des différents modules applicatifs;
+ - Assistance et interaction avec les équipes tierces (maîtrise d'ouvrage, intégration...).
+
+
+
+
+  
+ Profil recherché :
+
+De formation Bac+5 (école d'ingénieur ou universitaire), vous possédez une expérience d'au moins 2 ans sur l'environnement Java
+
+Compétences techniques :
+ Vous maîtrisez et/ou avez une appétence pour les technologies suivantes :
+
+ - Langage : Java
+ - Frameworks : Spring, Struts1, Hibernate 
+
+Nos avantages :
+
+ - Rémunération attractive et évolutive, mutuelle familiale à garantie haute;
+ - Tickets restaurant pris en charge à 60%, 100% titre de transport urbain remboursé;
+ - Primes d'intéressement, de participation et de cooptation;
+ - 2 jours de télétravail par semaine;
+ - Formation continue avec LinkedIn Learning et nos communautés techniques.
+
+
+
+",2026-09-21T14:35:37.448Z,https://candidat.francetravail.fr/offres/recherche/detail/7057398
+23,7007039,CRM et Data Analyst H/F,Entreprise inconnue,54 - Fléville-devant-Nancy,CDI,"Le groupe KROELY recrute !
+
+Groupe familial et centenaire, KROELY est un acteur majeur de la distribution automobile dans le Grand Est, notamment à travers les marques Mercedes-Benz, smart et BYD.
+Pour accompagner le développement de nos activités et renforcer le pilotage de notre connaissance client, nous recrutons un(e) CRM & Data Analyst au sein de notre service Marketing Groupe.
+Découvrez-nous ici  KROELY - L'important c'est vous. - YouTube
+Avantages :
+ * Mutuelle
+ * Intéressement
+
+ 
+Rattaché(e) à la Directrice Marketing, vous travaillez avec les responsables marketing, les équipes en concession et la Direction des Systèmes d'Information.
+Votre mission : fiabiliser nos données, les transformer en analyses utiles à la décision et faire progresser les usages de nos outils CRM.
+Votre périmètre couvre les différentes marques et activités du groupe : véhicules neufs et d'occasion, voitures particulières, utilitaires, véhicules industriels et après-vente.
+Ce poste associe expertise analytique, gestion opérationnelle et accompagnement des équipes, avec une contribution directe à nos projets de connaissance client, d'automatisation et de performance marketing.
+Vos principales missions
+Garantir la qualité et la cohérence des données
+ * Contrôler la qualité des bases clients : complétude, cohérence, doublons et validité des coordonnées.
+ * Identifier les anomalies, en analyser les causes et mettre en œuvre des actions correctives durables.
+ * Préparer et sécuriser les imports, exports et rapprochements de données entre nos différents systèmes.
+ * Construire des requêtes fiables et exploiter les relations entre les tables et les sources de données.
+ * Contribuer au déploiement du référentiel client unique pour consolider notre connaissance client.
+ * Faire évoluer les pratiques de collecte et de mise à jour des données avec les équipes concernées.
+
+Analyser les données et éclairer les décisions
+ * Construire et faire évoluer les tableaux de bord, notamment sous Qlik.
+ * Suivre les indicateurs de qualité des données, de traitement des leads et de performance des campagnes.
+ * Restituer les résultats de manière claire et formuler des recommandations opérationnelles.
+ * Automatiser les reportings pour faciliter le pilotage et renforcer la place de l'analyse.
+
+Contribuer à la performance des campagnes et des parcours clients
+ * Réaliser les segmentations et extractions nécessaires aux campagnes marketing et aux actions de relation client.
+ * Participer à la conception de scénarios automatisés : suivi après achat, entretien, renouvellement et réactivation.
+ * Intégrer les consentements, les préférences de contact et les règles de pression marketing dans les ciblages.
+ * Mesurer les résultats des actions et proposer des optimisations.
+
+Accompagner les équipes et améliorer les outils
+ * Former et accompagner les utilisateurs dans la maîtrise du CRM et des outils du portail : gestion des contacts, des véhicules et des leads.
+ * Recueillir les besoins métiers et les traduire en demandes d'évolution concrètes.
+ * Qualifier les anomalies et suivre les tickets auprès de nos prestataires jusqu'à leur résolution.
+ * Proposer des améliorations pour simplifier les usages, fiabiliser les processus et gagner en efficacité.
+ * Participer aux projets d'automatisation et à l'exploration des usages pertinents de l'intelligence artificielle.
+
+ 
+De formation Bac+2 minimum en data, statistiques, informatique, marketing analytique ou équivalent, vous justifiez d'au moins 3 ans d'expérience dans l'analyse ou le traitement de données, idéalement en lien avec le marketing, le commerce ou la relation client.
+Vos compétences techniques :
+ * Maîtrise avancée d'Excel ;
+ * Bonne compréhension des bases de données, des rapprochements et des logiques de jointure.
+ * Expérience d'un outil de visualisation de données : Qlik, Power BI, Tableau ou équivalent.
+ * Intérêt pour les outils CRM, l'automatisation et les applications concrètes de l'intelligence artificielle.
+
+Votre manière de travailler compte autant que vos compétences techniques.
+Vous faites preuve de rigueur, d'esprit d'analyse et de discernement. Vous savez vérifier la fiabilité d'un résultat, hiérarchiser les priorités et restituer les informations essentielles.
+Vous avez le sens du service et comprenez le rôle d'une fonction support : écouter les besoins, apporter des solutions adaptées et accompagner leur mise en œuvre. Vos qualités relationnelles et votre pédagogie vous permettent de travailler avec des interlocuteurs aux niveaux de maîtrise variés.
+Autonome et force de proposition, vous assurez le suivi de vos actions jusqu'à leur aboutissement. Vous partagez notre exigence de qualité, notre recherche de performance et notre volonté d'amélioration continue.
+Pourquoi rejoindre KROELY ?
+ * Un périmètre multimarque et multi-activité offrant des problématiques variées.
+ * Des projets structurants autour du CRM, de la qualité des données, de la BI et de l'IA.
+ * Une contributio...",2026-09-18T22:15:01.015Z,https://candidat.francetravail.fr/offres/recherche/detail/7007039
+24,6845551,Administrateur de transferts de fichiers - Freelance (H/F),Collective.work,54 - Nancy,LIB,"Taux journalier (TJM): 300
+
+Dans le cadre d'une équipe animée par un responsable de domaine, vous effectuerez l'accrochage technique avec de nouveaux établissements et vous mettrez en place les transferts de fichiers (environnements de recette et production, suivi des traitements, gestion des incidents, etc ....), et assurer la suivi en mode projet, en collaboration avec de chef de projet dédié.
+
+Les missions seront les suivantes :
+
+ * 
+
+   Prendre contact avec les établissements des différents ministères
+
+ * 
+
+   Réaliser les accrochages entre le data Center et ces établissements
+
+ * 
+
+   Mettre en place les différents transferts de fichiers
+
+ * 
+
+   Établir un suivi et rendre compte des travaux
+
+ * 
+
+   Appliquer les normes de transferts existantes
+
+ * 
+
+   Appliquer les consignes de mise en production.
+
+ * 
+
+   Mettre en place la supervision et diffuser les indicateurs.
+
+ * 
+
+   Analyser et gérer les incidents d'exploitation
+
+ * 
+
+   Participer aux échanges avec les équipes en mode projets et services (internes) pour la mise en place de transfert.
+
+ * 
+
+   Assurer un support technique aux utilisateurs (2ème niveau).
+
+ * 
+
+   Intervenir sous contraintes de délais lors des incidents d'exploitation (analyse des incidents, diagnostic et résolution des incidents).
+
+ * 
+
+   Établir la documentation technique d'exploitation.
+
+MGEN à Nancy
+
+2 jours de TT
+
+TJM pour le free 300 - 320 € - vendu à 456 €
+
+Profil :
+
+ * 
+
+   Maitrise des outils de transferts Gateway et/ou SecureTransport
+
+ * 
+
+   Connaissance des outils de transferts : CFT, XCMON, FTP, SFTP
+
+ * 
+
+   Maitrise des protocoles Pesit SSL, FTPS, SFTP, EBICS
+
+ * 
+
+   Maitrise du système d'exploitation Linux
+
+ * 
+
+   Connaissances des systèmes d'exploitation Windows, Unix
+
+ * 
+
+   Maitrise de l'écriture de scripts Shell et PowerShell sur les environnements Windows et Unix/Linux
+
+ * 
+
+   Une Expérience dans la gestion des transferts ainsi qu'en centre de production informatique serait un plus.",2026-09-12T10:03:04.442Z,https://candidat.francetravail.fr/offres/recherche/detail/6845551
+25,6825831,Intégrateur d'Applications confirmé - Freelance (H/F),Collective.work,54 - Vandœuvre-lès-Nancy,LIB,"INTÉGRATEUR D'APPLICATIONS CONFIRMÉ (H/F)
+
+LOCALISATION
+
+Vandœuvre-lès-Nancy / Nancy - Grand Est
+Proche de Metz, Épinal, Toul et Lunéville
+
+CONTEXTE
+
+Nous recherchons un Intégrateur d'Applications confirmé pour rejoindre une équipe spécialisée dans l'intégration et l'exploitation applicative.
+
+MISSIONS
+
+ * 
+
+   Exploiter les chaînes applicatives au quotidien
+
+ * 
+
+   Analyser et gérer les incidents d'exploitation
+
+ * 
+
+   Assurer le support utilisateurs N1/N2
+
+ * 
+
+   Intégrer les nouvelles applications au sein du système d'information
+
+ * 
+
+   Participer aux réunions projets
+
+ * 
+
+   Déployer les différents composants applicatifs
+
+ * 
+
+   Développer les scripts Shell pour les déploiements et batchs sous Linux
+
+ * 
+
+   Concevoir et déployer les plans de production dans VEGA ou équivalent
+
+ * 
+
+   Assurer la gestion des processus
+
+ * 
+
+   Rédiger la documentation technique d'exploitation
+
+ENVIRONNEMENT TECHNIQUE
+
+Systèmes : Linux, AIX
+
+Technologies : ESB, APIGEE, OpenShift, Tomcat, CloudBees, BuildForge/ClearQuest, GitLab
+
+Scripting : Shell, Ansible
+
+Environnements applicatifs : Feng/Jams, Drupal, Java
+
+Ordonnancement : VEGA ou équivalent
+
+PROFIL RECHERCHÉ
+
+ * 
+
+   Expérience confirmée en production informatique
+
+ * 
+
+   Bonne maîtrise de Shell et SQL
+
+ * 
+
+   Expérience en installation, intégration et exploitation d'applications
+
+ * 
+
+   Connaissance des problématiques de déploiement
+
+ * 
+
+   Bon relationnel
+
+ * 
+
+   Français courant indispensable
+
+CONDITIONS
+
+Localisation : Vandœuvre-lès-Nancy / Nancy
+Présence sur site : 3 jours par semaine
+Déplacements : aucun
+Astreintes : aucune
+
+CANDIDATURE
+
+Merci d'envoyer votre CV en message privé.",2026-09-11T10:02:26.990Z,https://candidat.francetravail.fr/offres/recherche/detail/6825831
+26,7422340,Ingénieur de production (H/F),Versusmind,54 - Nancy,CDI," Qui sommes-nous ?
+Depuis 2006, chez Versusmind, nous accompagnons les PME et ETI dans leur transformation digitale forts de l'expertise de nos consultants IT. Nous misons sur l'innovation, la collaboration, et l'excellence technique pour créer des solutions sur mesure.
+Notre promesse : Te proposer des projets stimulants, un cadre bienveillant, et les outils pour grandir techniquement.
+________________________________________
+ Pourquoi nous choisir ?
+- Impact concret : Tes solutions influencent directement la transformation digitale de nos clients.
+- Environnement technique riche : Projets variés, outils modernes, et une culture de l'innovation.
+- Équilibre vie pro/perso : Télétravail jusqu'à 2 jours/semaine, 37 jours de repos/an, et des avantages sociaux complets.
+
+
+Le poste : 
+
+Où - À Nancy - Télétravail jusqu'à 2 jours/semaine. Contrat : CDI - Cadre - Temps plein. Salaire : 35 à 40k€ selon ton expérience. Expérience : 2 ans minimum - Diplôme : BAC+5.
+
+ Tes missions
+
+Au sein du département production de la DSI, tu auras pour mission de :
+- Participer au design et à la mise en place des infrastructures et applications
+- Garantir la cohérence du SI (résilience, scalabilité, sécurité)
+- Assurer l'administration des infrastructures et le support de production niveau 3 (N3+)
+- Contribuer aux projets techniques internes et transverses (patching, obsolescence logicielle, évolutions)
+- Participer au pilotage opérationnel (tableaux de bord, sécurité opérationnelle)
+
+La Répartition De L'activité :
+-  25% assurer le dernier niveau de support (N3+)
+-  75% définir et mettre en place les infrastructures et les applications
+
+
+Profil recherché : 
+
+ Ton profil
+
+- Expertise en conteneurisation (Docker / Kubernetes) et environnements GNU/Linux (Debian/Ubuntu)
+- Bonne maîtrise des architectures réseau et des principes de sécurité (TLS, AAA)
+- Expérience avec Git et au moins un outil Infrastructure as Code (Terraform, Ansible, Puppet?)
+- Compétences en observabilité, scripting (Bash, Python) et environnements de production critiques
+- Connaissances des architectures hautement disponibles, CI/CD et d'au moins un SGBD (MySQL, PostgreSQL, MongoDB)
+",2026-09-26T11:21:32.756Z,https://candidat.francetravail.fr/offres/recherche/detail/7422340
+27,7422296,Chef de projet confirmé réseaux et VRD (H/F),HIREE,54 - Nancy,CDI,"hiree est un cabinet et réseau de recrutement qui associe l'expertise de recruteurs spécialisés à des outils intelligents, avec une conviction : la technologie facilite le recrutement, mais la rencontre reste humaine.
+Nous accompagnons les entreprises dans la compréhension de leurs besoins et les candidats dans leur projet professionnel. Parcours, compétences, motivations et attentes : nos consultants prennent le temps de comprendre chaque situation pour proposer des opportunités qui ont du sens.
+Un interlocuteur dédié vous accompagne tout au long du processus, du premier échange à la mise en relation avec l'entreprise qui recrute.
+
+
+Le poste : 
+
+Notre client est une entreprise spécialisée dans les études, la conception et le pilotage de projets de réseaux, de voirie et d'aménagements urbains. Dans le cadre d'une future implantation dans le Grand Est, elle recherche un profil confirmé pour prendre en charge des opérations complexes et contribuer au développement d'une nouvelle agence.
+Le rôle
+Vous pilotez les projets de leur conception à leur réalisation et participez à la structuration de cette future implantation. Le poste peut offrir une évolution vers des responsabilités de direction d'agence dans le Grand Est, selon les résultats et l'implication du candidat.
+Conception et pilotage des projets
+
+- Analyser les besoins des clients et définir les solutions techniques adaptées. - Piloter les études de conception dans les domaines des réseaux, de la voirie et des VRD. - Établir et contrôler les pièces techniques, administratives et financières des projets. - Suivre les coûts, les délais, la qualité et les risques liés aux opérations. 
+Coordination et relation projet
+
+- Coordonner les équipes internes, les concessionnaires, les entreprises et les partenaires. - Participer aux réunions de chantier et assurer le reporting auprès de la direction. - Gérer la relation client et contribuer au développement commercial de l'activité. 
+Développement de l'implantation
+
+- Participer à la mise en place de la future agence et à son organisation opérationnelle. - Contribuer au développement de l'activité locale. 
+Organisation pratique
+Le poste est à pourvoir ultérieurement dans le Grand Est. L'implantation est envisagée à Nancy ou Strasbourg. Des déplacements liés aux projets sont prévus.
+Les étapes du recrutement
+Entretien avec le responsable, examen de plans, test technique selon le profil, puis entretien final avec la direction générale.
+
+
+Profil recherché : 
+
+Compétences, formation et expérience recherchées
+Indispensables
+
+- Formation technique de niveau Bac ou supérieure dans les réseaux, les travaux publics, la voirie ou un domaine proche. - Quatre à cinq ans d'expérience en gestion de projets réseaux et VRD. - Maîtrise de la conduite d'études et du suivi de projets d'aménagement. - Capacité à coordonner plusieurs interlocuteurs et à gérer les priorités. - Solides qualités relationnelles, organisationnelles et rédactionnelles. -  indispensable pour les déplacements liés aux projets. 
+Atouts
+
+- Expérience en bureau d'études, en maîtrise d'oeuvre ou en entreprise de travaux publics. - Bonne connaissance des concessionnaires et des procédures liées aux réseaux. - Première expérience d'encadrement ou de développement commercial. - Connaissance du tissu économique du Grand Est. 
+Vous combinez expertise technique, sens du résultat et capacité à fédérer. L'autonomie, l'esprit entrepreneurial et l'envie de construire une activité locale sont attendus pour accompagner l'évolution vers la direction d'agence.
+",2026-09-26T11:21:31.059Z,https://candidat.francetravail.fr/offres/recherche/detail/7422296
+28,7421834,Développeur .Net - Freelance (H/F),Collective.work,54 - Nancy,LIB,"CONTEXTE
+
+Renforcement d'une équipe de 2 personnes basée dans les locaux à Nancy. Projet dédié à l'interconnexion de systèmes d'information (SI) à SI, ainsi qu'à la création de processus via RPA. Présence requise en moyenne 3 jours par semaine sur site, proximité géographique souhaitée (environ 30 minutes maximum).
+
+MISSIONS
+
+ * 
+
+   Participer au développement et à la maintenance d'applications basées sur le framework .Net Core
+
+ * 
+
+   Travailler sur des projets utilisant Blazor
+
+ * 
+
+   Intégrer et gérer des API SOAP et REST de Web Services
+
+ * 
+
+   Comprendre et appliquer la logique des architectures SOA, la plateforme Azure et les systèmes de messaging
+
+ * 
+
+   Utiliser la Power Platform, notamment Power Automate, avec une bonne maîtrise souhaitée
+
+ * 
+
+   Collaborer avec les profils métiers pour recueillir les besoins et proposer des solutions adaptées
+
+ * 
+
+   Travailler en équipe : partager l'avancement, signaler les difficultés ou risques rencontrés
+
+OUTILS & ENVIRONNEMENT
+
+ * 
+
+   Framework .Net Core
+
+ * 
+
+   Blazor
+
+ * 
+
+   API SOAP et REST
+
+ * 
+
+   Architectures SOA
+
+ * 
+
+   Plateforme Azure
+
+ * 
+
+   Systèmes de messaging
+
+ * 
+
+   Power Platform (Power Automate)
+
+CONDITIONS DE TRAVAIL
+
+ * 
+
+   Localisation : Nancy, présence requise environ 3 jours par semaine dans les locaux
+
+ * 
+
+   Proximité géographique requise (environ 30 minutes maximum)
+
+ * 
+
+   Démarrage : dès que possible
+
+ * 
+
+   Processus de recrutement : premier échange avec le recruteur, second échange avec un ou deux développeurs
+
+PROFIL
+
+ * 
+
+   Minimum 5 ans d'expérience
+
+ * 
+
+   Autonomie sur le framework .Net Core
+
+ * 
+
+   Bon relationnel et communication
+
+ * 
+
+   Force de proposition et capacité à échanger avec les métiers
+
+ * 
+
+   Esprit d'équipe et partage des informations
+
+ 1. 5 ans d'expériences minimum
+ 2. Maitrise (autonomie) du Framework .Net Core
+ 3. Connaissance de Blazor
+ 4. Connaissance des API SOAP et Rest des Web Services
+ 5. Compréhension de la logique des architectures SOA, de la plateforme Azure, des systèmes de messaging
+ 6. Pratique de la Power Platform, particulièrement Power Automate, une bonne maitrise est un plus
+ 7. Bon relationnel et bon niveau de communication
+ 8. Force de proposition, pouvoir échanger avec des profils métiers pour recueillir le besoin
+ 9. Capacité à travailler en équipe : partager son avancement, signaler les difficultés rencontrées ou les risques",2026-09-26T10:03:21.977Z,https://candidat.francetravail.fr/offres/recherche/detail/7421834
+29,7115524,Ingénieur Systèmes H/F,Université de Lorraine - Direction du Numérique,54 - Nancy,CDD,"RESPONSABILITÉS : 
+
+Au sein de la Direction du Numérique, sous-direction Infrastructures & Services, vous rejoignez l'équipe infrastructure « systèmes ». Vous contribuez à la conception, la mise à disposition et l'exploitation des plateformes d'infrastructures et de services numériques mutualisés de l'Université de Lorraine.
+Vos missions principales :
+ -  Administrer les systèmes : installer, configurer et maintenir les serveurs physiques et virtuels et leurs OS
+ -  Superviser les performances et la sécurité des systèmes et services
+ -  Déployer et supporter les services délivrés en mode « as a Service » (calcul, stockage, virtualisation, conteneurs, web, sauvegarde, supervision)
+ -  Gérer les incidents : diagnostic, résolution et suivi, y compris dans un contexte de continuité de service
+ -  Concevoir et développer des outils d'administration et d'automatisation
+ -  Contribuer aux projets de la sous-direction : expertise technique, conduite de projets, accompagnement des mises en œuvre
+ -  Assurer la veille technologique sur les domaines systèmes et infrastructures
+ -  Rédiger la documentation technique et les guides à destination des usagers
+Le poste implique des pics d'activité, des horaires décalés possibles et des interventions hors heures ouvrées pour garantir la continuité de service. Télétravail possible selon les règles de l'établissement.
+
+PROFIL RECHERCHÉ : 
+
+Vous êtes un(e) ingénieur(e) systèmes souhaitant évoluer au sein d'un environnement universitaire doté d'infrastructures complexes et mutualisées.
+Compétences techniques requises :
+ -  Systèmes Linux : excellentes connaissances des architectures et de l'administration avancée
+ -  Virtualisation : maîtrise d'une ou plusieurs solutions (VMWare, Nutanix, ProxMox)
+ -  Containérisation : bonne pratique de Docker et/ou Kubernetes
+ -  Hébergement web : Apache, Nginx, HAProxy, Traefik
+ -  Bases de données : MySQL, PostgreSQL, MongoDB, Redis
+ -  Supervision / métrologie : Centreon, ELK, Grafana
+ -  Scripting : programmation shell (bash) et Python
+Compétences appréciées :
+ -  Réseau & sécurité : bases solides pour dialoguer avec les équipes spécialisées
+ -  Développement : GIT, CI/CD, PHP, Python, NodeJS
+ -  Environnements complémentaires : Windows Server, stockage distribué (CEPH, S3), LDAP, Radius, SSO, MFA, Ansible, Terraform, Cloud-init
+Savoir-être :
+ -  Travail en équipe et capacités d'échange
+ -  Capacité d'analyse, autonomie et rigueur
+ -  Qualités rédactionnelles pour la documentation technique
+ -  Discrétion et sens du service rendu aux usagers
+ -  Anglais technique maîtrisé
+Si cette offre d'emploi vous intéresse, merci de candidater avant le 30/09",2026-09-23T04:37:38.119Z,https://candidat.francetravail.fr/offres/recherche/detail/7115524
+30,7104010,Téléopérateur en téléassistance H/F,Entreprise inconnue,54 - Meurthe-et-Moselle,CDI,"À propos du poste
+Leader de la téléassistance en France, Présence Verte développe des offres à destination des particuliers, des professionnels et des collectivités depuis plus de 35 ans. En associant avec succès proximité humaine et performance technologique, Présence Verte compte aujourd'hui 160 000 abonnés répartis sur toute la France.
+
+Rejoindre Présence Verte SA, c'est effectuer sa carrière au sein d'une entreprise dynamique qui s'appuie sur des valeurs fortes :
+
+- La proximité : avec des professionnels de l'écoute et de l'assistance chaque abonné bénéficie d'un accompagnement constant et personnalisé.
+
+- La solidarité : pour rompre l'isolement, Présence Verte renforce le lien social au travers de réseaux de solidarité et de collaborations avec des partenaires locaux.
+
+- L'innovation : à la pointe de la technologie, les solutions de téléassistance proposées sont à la fois innovantes, performantes et simple d'utilisation.
+
+---------------------------------------------------------------------------------------------
+
+Rendre service est important pour vous ? Vous aimez écouter, rassurer et porter assistance ? 
+
+Ce poste est peut-être fait pour vous !
+
+Votre quotidien : Prendre en charge, par téléphone, l'assitance de nos abonnés (personnes âgées, handicapées, isolées, ...) en cas d'alerte (chute, malaise, ...), en déclenchant les procédures d'interventions définies (Appel au SAMU, voisinage, famille, ...).
+
+Vous aurez un fixe à 24K sur 13 mois et des majorations (samedi, dimanche et jours fériés).
+
+Vous bénéficierez : de tickets restaurants d'une valeur faciale de 10.50 euros, des offres de notre Comité d'Entreprise, d'une mutuelle et prévoyance.
+
+Profil : Vous avez une expérience dans la relation client et idéalement en plateaux d'assistance ? Vous aimez être à l'écoute des autres et savez gérer les situations d'urgence ? Les horaires décalés ne sont pas une contrainte pour vous ?
+
+Alors rejoignez-nous, nos abonnés vous attendent !
+
+Type d'emploi : Temps plein, CDI
+
+Rémunération : 1854.32€/ mois.
+
+Avantages :
+
+* Intéressement et participation
+* Télétravail possible
+
+Type d'emploi : Temps plein, CDI
+
+Rémunération : 1 854,32€ par mois
+
+Avantages :
+* Titre restaurant
+* Travail à domicile occasionnel
+
+Capacité à faire le trajet ou à déménager:
+* 54710 Ludres: Faire le trajet sans problème ou prévoir un déménagement avant de prendre son poste (Requis)
+
+Question(s) de présélection:
+* Travailler le week-end ET en horaires décalés est un frein pour vous ? 
+
+Permis/certification:
+* permis de conduire (Requis)
+
+Lieu du poste : En présentiel",2026-09-22T22:31:47.606Z,https://candidat.francetravail.fr/offres/recherche/detail/7104010
+31,7094141,Ingénieur conception & calculs (H/F),IKIWAY,54 - Nancy,CDI,"Notre client est une société d'ingénierie spécialisée dans la conception et la réalisation de projets industriels. Reconnue pour son expertise technique, elle accompagne ses clients dans le développement de solutions sur mesure, de la phase d'études à la mise en oeuvre.
+Présente sur des projets à forte valeur ajoutée, elle intervient dans des domaines tels que la mécanique, les installations industrielles, les structures métalliques, la tuyauterie et la gestion de projets. Elle collabore avec des acteurs majeurs de l'industrie sur des secteurs exigeants où la qualité, la sécurité et l'innovation sont des priorités.
+Dans le cadre de son développement, notre client recherche un Ingénieur conception & calculs H/F souhaitant évoluer au sein d'un environnement technique stimulant.
+
+
+Le poste : 
+
+Vous intervenez sur l'ensemble du cycle d'études, en lien direct avec les équipes techniques et les clients. 
+Votre mission est de concevoir des solutions fiables, optimisées et parfaitement adaptées aux contraintes techniques et opérationnelles des projets.
+Vos principales missions : 
+
+- Analyser les besoins des clients à partir des cahiers des charges, plans et visites sur site;
+ - Réaliser des relevés techniques en environnement industriel;
+ - Concevoir et dimensionner des structures métalliques : charpentes, portiques, supportages, passerelles et équipements spécifiques;
+ - Effectuer les calculs de structures conformément aux Eurocodes (EC3);
+ - Réaliser les modélisations et simulations à l'aide de Robot Structural Analysis;
+ - Intégrer les contraintes de l'environnement existant, du montage et des conditions d'exploitation afin de garantir la faisabilité des projets;
+ - Rédiger les notes de calcul ainsi que l'ensemble des dossiers techniques;
+ 
+
+- Travailler en étroite collaboration avec les ingénieurs d'études et les projeteurs pour assurer la cohérence des projets;
+ - Assurer l'interface technique avec les clients, partenaires et autres intervenants tout au long des études.
+ 
+
+
+Profil recherché : 
+
+
+- Issu(e) d'une formation supérieure en ingénierie (structures métalliques, génie mécanique, génie civil ou équivalent);
+ - Vous justifiez d'une expérience d'au moins 5 ans dans le calcul et le dimensionnement de structures métalliques et/ou de charpentes;
+ - Vous maîtrisez les méthodes de calcul de structures ainsi que les normes de dimensionnement en vigueur, notamment les Eurocodes;
+ - Rigoureux(se), autonome et doté(e) d'un bon esprit d'analyse, vous appréciez les environnements techniques exigeants et le travail en équipe.
+ 
+",2026-09-22T11:24:39.203Z,https://candidat.francetravail.fr/offres/recherche/detail/7094141
+32,7066456,technicien ne exploitation H/F - EC9876,Département Meurthe et Moselle,54 - Nancy,CDI,"technicien ne exploitation H/F - EC9876 
+MISSION : 
+le.la
+ 
+technicien.ne
+ exploitation assure l'exploitation et l'entretien en régie des routes, de leurs dépendances et des ouvrages d'art situés sur le territoire, conformément aux objectifs établis par 
+le.la
+ RSTAM et aux niveaux de service du Schéma départemental des tran ... s déplacements (SDTD). D ... dre de sa mission, il.elle exerce un lien hiérarchique direct sur les chefs de centre d'exploitation du territoire et de n+2 sur les agents d'exploitation.
+
+ACTIVITES
+
+Exploitation et entretien
+
+En lien avec la direction Infrastructure et mobilité :
+
+- Suit et gère les équipements de la route et notamment les dégâts au domaine public
+
+- Organise et pilote les travaux réalisés par la régie  et à ce titre, instruit les déclarations de travaux et les déclarations d'intention de commencement de travaux (DICT)
+
+- Assure le suivi des activités d'exploitation et d'entretien et participe aux commissions d'achat de matériel et véhicules
+
+- Gère les implantations de publicité et de pré-enseignes sur le domaine public routier
+
+- Etablit les demandes d'arrêtés de circulation temporaires et permanents
+
+- Participe à la gestion de crise et assure un suivi de l'accidentologie
+
+- Participe à l'élaboration et à la mise en œuvre du plan d'exécution de la viabilité hivernale (PEVH) et gère la VH
+
+- Gère, en lien avec les chefs de centres d'exploitation, les besoins nécessaires à l'activité et établit les commandes de fournitures et matériaux divers
+
+- Assure la fonction de cadre responsable d'intervention (CRI) en VH et en veille qualifiée
+
+
+
+Management des équipes
+
+- Coordonne, anime et contrôle sur le terrain les activités des centres d'exploitation en lien avec les chefs de centre (programmation, planification des activités hebdomadaires, .) et conduit des réunions d'équipe régulières
+
+- Réalise les entretiens professionnels des chefs de centre d'exploitation placés sous son autorité
+
+- Assure le suivi des mises à niveau professionnelles des agents (habilitations, formations,.)
+
+- Participe à l'élaboration des décisions du CHS (Comité hygiène et sécurité), les met en œuvre et réalise les visites de sécurité
+
+- Met en place les tableaux d'astreinte et assure la gestion des heures supplémentaires
+
+
+Référence de l'offre : ggivm1n7tr",2026-09-21T21:03:21.461Z,https://candidat.francetravail.fr/offres/recherche/detail/7066456
+33,7066443,technicien ne exploitation H/F - EC9876,Département Meurthe et Moselle,54 - Nancy,CDI,"technicien ne exploitation H/F - EC9876 
+MISSION : 
+le.la
+ 
+technicien.ne
+ exploitation assure l'exploitation et l'entretien en régie des routes, de leurs dépendances et des ouvrages d'art situés sur le territoire, conformément aux objectifs établis par 
+le.la
+ RSTAM et aux niveaux de service du Schéma départemental des tran ... s déplacements (SDTD). D ... dre de sa mission, il.elle exerce un lien hiérarchique direct sur les chefs de centre d'exploitation du territoire et de n+2 sur les agents d'exploitation.
+
+ACTIVITES
+
+Exploitation et entretien
+
+En lien avec la direction Infrastructure et mobilité :
+
+- Suit et gère les équipements de la route et notamment les dégâts au domaine public
+
+- Organise et pilote les travaux réalisés par la régie  et à ce titre, instruit les déclarations de travaux et les déclarations d'intention de commencement de travaux (DICT)
+
+- Assure le suivi des activités d'exploitation et d'entretien et participe aux commissions d'achat de matériel et véhicules
+
+- Gère les implantations de publicité et de pré-enseignes sur le domaine public routier
+
+- Etablit les demandes d'arrêtés de circulation temporaires et permanents
+
+- Participe à la gestion de crise et assure un suivi de l'accidentologie
+
+- Participe à l'élaboration et à la mise en œuvre du plan d'exécution de la viabilité hivernale (PEVH) et gère la VH
+
+- Gère, en lien avec les chefs de centres d'exploitation, les besoins nécessaires à l'activité et établit les commandes de fournitures et matériaux divers
+
+- Assure la fonction de cadre responsable d'intervention (CRI) en VH et en veille qualifiée
+
+
+
+
+
+Management des équipes
+
+- Coordonne, anime et contrôle sur le terrain les activités des centres d'exploitation en lien avec les chefs de centre (programmation, planification des activités hebdomadaires, .) et conduit des réunions d'équipe régulières
+
+- Réalise les entretiens professionnels des chefs de centre d'exploitation placés sous son autorité
+
+- Assure le suivi des mises à niveau professionnelles des agents (habilitations, formations,.)
+
+- Participe à l'élaboration des décisions du CHS (Comité hygiène et sécurité), les met en œuvre et réalise les visites de sécurité
+
+- Met en place les tableaux d'astreinte et assure la gestion des heures supplémentaires
+
+
+
+ ... istrative : centre d'exploitation de Longuyon
+
+4 route de Sorbey,...Longuyon.
+
+
+Référence de l'offre : ggivm1n7tr",2026-09-21T21:03:21.461Z,https://candidat.francetravail.fr/offres/recherche/detail/7066443
+34,7063318,Chef de projets IT (H/F),LINDAL FRANCE,54 - Ozerailles,CDI,"Votre rôle
+Le Spécialiste IT/ Chef de Projets IT (Réseau / Systèmes / Infrastructure / Cloud / Environnement de travail) est responsable du fonctionnement stable, sécurisé et efficace ainsi que de l'amélioration continue de l'infrastructure IT, y compris les environnements cloud et sur site. Le rôle agit en tant qu'expert technique au sein de l'organisation, concevant et mettant en œuvre des solutions, résolvant des problèmes complexes et assurant l'alignement avec l'architecture IT du Groupe, les normes de sécurité et les directives opérationnelles. En combinant l'exécution pratique et la responsabilité technique, le Spécialiste IT contribue à des services IT évolutifs, fiables et standardisés sur tous les sites.
+
+
+Vos responsabilités
+Concevoir, mettre en œuvre et maintenir des solutions d'infrastructure IT dans les environnements cloud (par exemple Azure) et sur site.
+Assurer la disponibilité, la performance et la sécurité des systèmes en conformité avec les normes IT du Groupe et les directives d'architecture.
+Gérer et optimiser les environnements cloud, y compris l'évolutivité, la rentabilité et la performance.
+Mettre en œuvre et faire respecter les contrôles de sécurité, y compris les mécanismes d'identité, d'accès et de protection des données. Adhérer aux politiques, normes et procédures de sécurité de l'information de l'organisation dans toutes les activités techniques. Soutenir la mise en œuvre et la maintenance des contrôles de sécurité de l'information tels que requis par le SMSI de l'organisation. Signaler rapidement les incidents de sécurité, les vulnérabilités ou les violations de politique à l'équipe de sécurité de l'information.
+Résoudre les incidents complexes et effectuer des analyses des causes profondes pour assurer une stabilité à long terme.
+Agir en tant qu'expert(e) technique pour les sujets d'infrastructure (par exemple, cloud, réseau, serveur), en soutenant et en guidant les autres rôles IT si nécessaire.
+Collaborer avec les parties prenantes internes et les partenaires externes pour concevoir et mettre en œuvre des solutions alignées sur les exigences commerciales.
+Coordonner et gérer les demandes, les acquisitions et les activités de cycle de vie pour le matériel et les logiciels IT en conformité avec les processus internes et les normes approuvées.
+
+Gestion de programmes et de projets
+Surveillance et observabilité IT
+Services Cloud
+Gestion des actifs et de la configuration IT
+Gestion des identités et des accès (IAM)
+Services d'environnement de travail et support utilisateur final
+Administration réseau et système
+Gestion des fournisseurs et des partenaires
+Analyse des causes profondes
+Sécurité Cloud
+Architecture et conception de la sécurité
+
+Vos avantages
+Tickets restaurant
+Indemnité de transport
+Prime d'ancienneté
+Œuvres sociales
+Mutuelle offerte au salarié
+Intéressement / participation
+Prime de vacances
+13ème mois",2026-09-21T18:28:16.024Z,https://candidat.francetravail.fr/offres/recherche/detail/7063318
+35,6964173,MONTEUR (SE) RESEAUX ELECTRIQUES (H/F),LTd,54 - Nancy,MIS,"Société incontournable sur le marché du recrutement français, LTd est un Cabinet de Recrutement et une Agence de Travail Temporaire spécialisé dans les métiers de l'Ingénierie et des Entreprises.
+
+Le poste : 
+
+Vos missions seront les suivantes :
+
+Raccordement en phase préparatoire : coffrets BT, poste de transformation, boites HTA et BT
+
+Mise en service (BT, HTA)
+
+Travaux sous tension BT/ HT / EP
+
+Reprise des branchements individuels dans le cas d'effacement de réseaux
+
+Dépose de fils nus, pose de torsadé, armement de poteau (BT, HTA)
+
+Travaux sous tension, mise en sécurité (nappage, poulies TST...)
+
+. Entretenir les lignes et postes électriques
+
+
+
+Profil recherché : 
+
+Votre profil :
+
+Issu d'une formation dans le domaine de l'électricité.
+
+Vous avez de bonnes connaissances et compétences en CFA et CFO.
+
+H0/B0/B1T/H1V
+
+CACES Nacelle",2026-09-17T11:24:29.050Z,https://candidat.francetravail.fr/offres/recherche/detail/6964173
+36,6964145,MONTEUR (SE) RESEAUX ELECTRIQUES (H/F),LTd,54 - Nancy,MIS,"Société incontournable sur le marché du recrutement français, LTd est un Cabinet de Recrutement et une Agence de Travail Temporaire spécialisé dans les métiers de l'Ingénierie et des Entreprises.
+
+Le poste : 
+
+Vos missions seront les suivantes :
+
+Raccordement en phase préparatoire : coffrets BT, poste de transformation, boites HTA et BT
+
+Mise en service (BT, HTA)
+
+Travaux sous tension BT/ HT / EP
+
+Reprise des branchements individuels dans le cas d'effacement de réseaux
+
+Dépose de fils nus, pose de torsadé, armement de poteau (BT, HTA)
+
+Travaux sous tension, mise en sécurité (nappage, poulies TST...)
+
+. Entretenir les lignes et postes électriques
+
+
+
+Profil recherché : 
+
+Votre profil :
+
+Issu d'une formation dans le domaine de l'électricité.
+
+Vous avez de bonnes connaissances et compétences en CFA et CFO.
+
+H0/B0/B1T/H1V
+
+CACES Nacelle",2026-09-17T11:22:49.963Z,https://candidat.francetravail.fr/offres/recherche/detail/6964145
+37,5391992,technicien ne énergie exploitation H/F - EC9876,Département Meurthe et Moselle,54 - Nancy,CDI,"technicien ne énergie exploitation H/F - EC9876 
+MISSION : le (la) technicien (ne) Energie Exploitation assure la réalisation de travaux d ... maine thermique et le suivi énergétique des bâtiments et collèges départementaux d ... jectif de réduction des coûts énergétiques.
+
+Interlocuteur (trice) privilégié (e) des territoires pour toutes les questions du domaine thermique, il (elle) a une mission de conseil auprès des référents techniques des bâtiments et des utilisateurs.
+
+ACTIVITES
+
+- Met en place les contrats de maintenance et d'exploitation des installations techniques des bâtiments départementaux* et en assure le suivi technique
+
+- Procède au suivi et à l'analyse des consommations énergétiques en vue de mettre en place des actions d'économie d'énergie
+
+- Effectue des visites régulières des sites départementaux d ... jectif d'optimisation du fonctionnement des installations thermiques
+
+- A la demande des référents techniques, apporte appui et conseils en matière d'installations thermiques
+
+- Assure le lien avec les exploitants des diverses installations
+
+- Est force de proposition pour la programmation des travaux d ... maine thermique
+
+-Contrôle la bonne exécution des travaux.
+
+- Réalise et met l'inventaire et le repérage des installations thermiques d ... se de données patrimoniales à l'aide du logiciel de dessin appropriée (AUTOCAD)
+
+ 
+
+* Les bâtiments départementaux comprennent :
+
+- les collèges
+
+- les gendarmeries
+
+- les bâtiments des services du Conseil Départemental (Maisons du département et sites annexes, MDS, Médiathèque, centres d'exploitation CEXP, unités du REMM, MDPH, etc.).
+
+
+
+Spécificités
+
+- Niveau bac+2 d ... maine CVC et une expérience d ... ivi des installations techniques seront appréciés
+
+- Déplacements fréquents sur le département -  ... ispensable.
+
+
+
+
+Référence de l'offre : vdc00azkzs",2026-07-23T21:03:19.770Z,https://candidat.francetravail.fr/offres/recherche/detail/5391992
+38,7429415,ANALYSTE EXPLOITATION H/F,MAXICOFFEE,54 - Nancy,CDI,"A la recherche d'une nouvelle aventure professionnelle ?
+Vos projets, vos compétences et votre enthousiasme nous intéressent.
+
+Et si nous partagions plus qu'un café ?
+En pleine croissance, le Groupe MaxiCoffee renforce ses équipes.
+Rejoignez nous en tant qu' Analyste exploitation H/F?!
+
+Rattaché(e) à notre agence de NANCY et à la direction efficience opérationnelle, votre rôle sera d'organiser la répartition optimale des tournées des approvisionneurs pour garantir l'efficience de l'agence, le respect des contrats et faciliter le travail des équipes terrain.
+
+Vos missions au quotidien :
+
+Planification
+Proposition de planning avec les ressources disponibles
+Adapter les passages aux consommations
+
+Retour de tournée
+Analyse des chargements machines
+Analyse du compteur
+Suivi du respect des procédures (caisses, audit, planning etc.)
+Identification des anomalies (incohérence des temps machines, temps trajets, temps autres)
+Intervention technique non clôturée
+
+Surveillance de la base de données (machine, client, personnel) 
+Relance leader PV installation et retrait
+Modification si erreur de chargement
+Mise à jour des contacts interne
+
+
+  
+ 
+Ce que vous avez à partager :
+- Votre sens de l'analyse et de l'évaluation
+- Le respect des normes
+- Votre capacité de contrôle et de vérification
+- Votre disponibilité et adaptabilité
+- Votre esprit d'équipe et de coopération
+- Votre attitude positive
+- Votre sens de l'organisation et d'anticipation
+- Votre esprit critique et exigent
+
+Ce que nous attendons :
+
+- Vous avez idéalement une expérience en planification.
+- Vous maitrisez les outils informatiques et bureautiques.
+- Vous êtes une personne organisée, qui sait prioriser les tâches et traiter les imprévus.
+- Vous êtes autonome, avez de l'énergie à revendre, une bonne capacité d'adaptation.
+
+- Votre avez une excellente communication orale et écrite.
+
+
+Rejoindre notre équipe, c'est profiter d'avantages alignés avec nos valeurs et notre culture interne.
+MaxiCoffee s'engage à offrir un environnement inclusif : chaque poste est ouvert aux personnes en situation de handicap.
+",2026-09-26T14:35:27.738Z,https://candidat.francetravail.fr/offres/recherche/detail/7429415
+39,7425019,Alternance Développeur Applicatif - Laxou (F/H),Entreprise inconnue,54 - Laxou,CDD,"Concevoir et faire évoluer des applications métier, web, mobile et client/serveur, au sein d'une équipe R&D en méthode agile.Rédiger les spécifications fonctionnelles à partir des besoins internes ou clients.Coder de nouvelles fonctionnalités et maintenir l'existant.Écrire et automatiser les tests unitaires et les tests d'intégration.Contribuer à la chaîne d'intégration et de déploiement continus.",2026-09-26T12:02:36.371Z,https://candidat.francetravail.fr/offres/recherche/detail/7425019
+40,6728587,Chef de Projet Travaux Aménagement Grand Est (F/H) - ESSEY LES NANCY,Entreprise inconnue,54 - Essey-lès-Nancy,CDD,"Le saviez-vous ? 
+ 
+Créateur de l'hypermarché, Carrefour reste fidèle à ses racines tout en se réinventant pour permettre à chacun de mieux manger : plus sain, plus local, plus responsable. Leader mondial de la distribution, nous sommes engagés pour la diversité, la RSE et la transformation digitale, tout en créant un environnement de travail inclusif et stimulant.
+ 
+Nos atouts pour y parvenir ? 
+Un réseau multi format, multi métiers avec des collaborateurs passionnés, qui s'engagent, pour réussir la transition alimentaire pour tous.
+ 
+Carrefour recherche pour sa direction technique un :
+Chef de Projet Travaux Aménagement (F/H) - Alternance
+Missions :
+Rattaché au Responsable du Pôle Aménagement et de la Direction Technique , vous contribuez, en soutien à l'équipe en place, à déployer la stratégie d'Aménagement, de remodeling et de modernisation des magasins et des bases E-commerce Drive sur les formats hypermarchés, supermarchés.
+ 
+Réaliser les projets en tenant compte des besoins des exploitants et de la réglementation en vigueur (droit de l'urbanisme, normes ERP.), tout en garantissant les meilleurs coûts de revient.Accompagner le développement de l'équipe Aménagement, en veillant à la bonne réalisation des missions qui vous seront confiées dans le cadre des projets inscrits dans le plan d'investissement annuel.Collecter, formaliser et harmoniser les besoins des exploitants et des autres prescripteurs en les challengeant, puis vous participez aux commissions d'achat.Effectuer le sourcing, analyser le marché au regard des besoins de l'entreprise, préparer les appels d'offres, participer aux négociations et suivre l'exécution des contrats (direction Achat).Garant de la satisfaction clients, anticiper les besoins en proposant des solutions techniques novatrices et adaptées aux spécificités de l'exploitation de chaque magasin.Participer à l'alimentation des reporting d'indicateurs qualité et d'avancement des projets de construction et en réalisez le suivi pour vos dossiers.Contribuer à la modernisation des outils de planification, de commande et de suivi de la performance du pôle Aménagement, proposition de nouvelles améliorations, réalisation des objectifs de sécurité/qualité/coûts/délais et valorisation des gainsplilip>Réaliser en autonomie la gestion des travaux et le suivi de la performance des projets  au fur et à mesure des montées en compétences
+
+Profil :
+Vous préparez un Diplôme Licence /Master avec en Bâtiment ou en Conduite de Travaux (ou équivalent) et vous souhaitez évoluer dans le domaine de l'aménagement  et de l'équipement des bâtiments.Vous avez idéalement une première expérience en bâtiment en stage ou alternance.Maîtriser le pack Office et savoir travailler en équipe.Volontaire, rigoureux (se) et doté(e) d'un sens aigu du service client, vous savez être réactif (ve) et gérer les priorités.Capacités d'anticipation, d'analyse, de synthèse et de communication seront des atouts nécessaires pour votre réussite à ce poste.
+
+ 
+Informations complémentaires : 
+Date de début : dès que possibleDurée : 2 ansLieu : Essey lès Nancy (54)Avantages: 50 % du titre de transport pris en charge par Carrefour
+
+ 
+Envie de rejoindre l'aventure ?
+ 
+Chez Carrefour, nous avons à cœur de ne passer à côté d'aucun talent et sommes fiers de compter des équipes représentatives de la société dans son ensemble. Nous encourageons ainsi tous types de profils à postuler à cette offre et garantissons un processus de recrutement dénué de toutes formes de discriminations.",2026-09-08T12:22:17.557Z,https://candidat.francetravail.fr/offres/recherche/detail/6728587
+41,4229666,Technicien télécommunications réseaux (H/F),JOB NICOLAS,54 - Nancy,CDI,"Description du poste Effectuer des mesures sur le terrain avec des appareils adaptés (GPS Effectuer des mesures topographiques (mesure des angles, des distances Etablir des plans et des cartes à différentes échelles et selon les normes demandés Connaissance et utilisation des différents appareils de détection (géoradar, flexitrace, appareil électromagnétique Participer à l'élaboration de différents projets (création méthodologie, formation Autres informations Grands déplacements à prévoir sur le secteur EST (permis B nécessaire dans le cadre de vos déplacements, véhicule société fourni)
+
+
+Description de l'entreprise
+
+
+L'entreprise est spécialisée dans les travaux de topographie, cartographie et détection de réseaux.
+
+Description du profil :
+
+Les « savoir-faire BAC ou niveau BTS Connaissance des réseaux télécom Savoir utiliser le matériel de détection de réseaux et le matériel de topographie Connaître toutes les questions liés à la sécurité et l'équipement à utiliser pour de la détection de réseau Avoir les habilitations nécessaires à la pratique de la détection Savoir lire un plan avec la localisation et la demande précise de détection Savoir analyser l'environnement pouvant perturber lors d'une détection de réseaux
+
+
+Les « savoir-être Savoir rendre un travail complet et exploitable par les techniciens bureau Savoir être rigoureux (feuille de temps, photos si problème rencontré Savoir être autonome et sérieux (confiance de l'employeur sur les 35h hebdomadaires Avoir un bon relationnel car le technicien peut être amené à travailler chez des particuliers Avoir des capacités d'analyse et de synthèse",2026-06-25T09:34:26.000Z,https://candidat.francetravail.fr/offres/recherche/detail/4229666
+42,7061076,Chef de projet systèmes d'information (F/H) 1,Keolis,54 - Nancy,CDI,"Keolis est un des leaders mondiaux de la mobilité partagée et le partenaire privilégié des Autorités Organisatrices de Mobilité. En 2022, le Groupe a connu une croissance significative avec un chiffre
+d'affaires de 6,7 milliards d'euros. Présent dans 13 pays, nos 68 000 collaborateurs œuvrent chaque jour à la proposition d'une alternative crédible à la voiture individuelle et ainsi à l'accélération de la transition
+écologique.Ensemble, nous co-construisons des solutions de transport en commun sûres, performantes et durables. Notre ambition est d'imaginer et de déployer ces mobilités au service de chaque territoire, pour une
+meilleure qualité de vie de tous et de chacun.
+
+Keolis Grand Nancy est une filiale du Groupe Keolis, acteur majeur du transport de voyageurs présent sur le territoire français et à travers le monde. Notre entreprise exploite le réseau Stan, et dessert les 20 communes de la Métropole.
+
+Actuellement plus de 850 collaborateurs travaillent ensemble, à Nancy, pour desservir les citoyens et citoyennes et participer aux projets innovants de mobilité globale (Trolley électrique, nouvelle ligne T5...)
+Keolis Grand Nancy vous propose d'intégrer ses équipes en qualité de Chef de projet systèmes d'informations (F/H). Le Chef de projets SI est responsable de la gestion de projets informatiques au sein de l'entreprise. Il/Elle pilote la mise en oeuvre, la gestion et le suivi de projets liés aux systèmes d'informations, en garantissant la qualité, le respect des délais et des coûts. Il/Elle travaille en étroite collaboration avec les équipes techniques, les parties prenantes métiers et les fournisseurs externes.
+
+Missions
+:
+
+Gestion de projets SI :
+
+Planifier, coordonner et superviser les projets informatiques de la phase d'expression du besoin à la mise en production en passant par les phases d'animation interne, de rédaction du cahier de charges, de cadrage, de spécifications, de développements et de recettes
+
+Suivre les plannings, les budgets, piloter les prestataires
+
+Contribuer aux tableaux de bords projets entreprise
+
+Animer en interne & externe des réunions avec les utilisateurs et prestataires
+
+Gérer les risques projets et mettre en place des actions correctives en cas de dérive
+
+Assurer le suivi post-production et la gestion des incidents
+
+Proposer des évolutions ou améliorations des systèmes existants en fonction des retours utilisateurs et contribuer à la démarche d'innovation
+
+Coordonner la formation des utilisateurs e tle support technique
+
+Data :
+
+Accompagner les métiers dans la collecte de besoin pour l'établissement de tableaux de bords, définir les modèles de données et réaliser la production d'indicateurs
+
+Créer et mettre à jour la documentation autour de traitements et données
+
+Assurer la maintenance et l'évolution des indicateurs existants
+
+Formation informatique : bac +3 à bac +5
+
+Expérience minimum de 2 ans dans la gestion de projets SI 
+
+Maitrise des méthodologies de gestion de projets avec une 1ère expérience réussie
+
+Savoir rendre compte
+
+Aptitude à travailler en équipe et à gérer des interactions avec des interlocuteurs variés (techniques et fonctionnels).
+
+Rigueur et sens de l'organisation.
+
+Autonomie et capacité à prendre des initiatives.
+
+Esprit d'analyse et de synthèse.
+
+Orientation résultats et satisfaction client.
+
+Force de proposition et créativité.
+
+Ce que nous avons à offrir
+:
+
+CDI temps plein à pourvoir dès que possible
+
+Salaire à l'embauche compris entre 2 580 € et 2 789 € brut/mois et évolution dès 6 mois d'ancienneté et dès 1 an
+
+Grille salariale évolutive en fonction de l'ancienneté
+
+Prime de 13ème mois 
+
+Prime de vacances de 2 088 € brut
+
+RTT tous les 15 jours 
+
+En intégrant le Groupe Keolis vous rejoignez un groupe engagé pour le développement de ses collaborateurs et pour les enjeux sociétaux etenvironnementaux à travers :
+- Des opportunités professionnelles au sein de l'ensemble du Groupe Keolis (mobilité transversale, géographique...)
+- Un modèle managérial favorisant des relations professionnelles solides, basées sur la confiance mutuelle permettant à chacun et chacune de libérer son plein
+potentiel
+- Une ambition de devenir leader de la mobilité bas carbone et d'améliorer ses performances environnementales (prévention des pollutions; optimisation de la
+consommation d'énergie ...)
+- Des politiques fortes en termes de diversité et de non-discrimination (labellisé GEEIS depuis 2016 et signataire de la charte diversité)",2026-09-21T15:22:05.287Z,https://candidat.francetravail.fr/offres/recherche/detail/7061076
+43,7102929,responsable sécurité systèmes information rssi H/F - EC9876,Département Meurthe et Moselle,54 - Nancy,CDI,"responsable sécurité systèmes information rssi H/F - EC9876 
+MISSION : le RSSI évalue la vulnérabilité du système d'information de la collectivité, définit et met en œuvre la politique de sécurité de la collectivité. Il met en place des solutions pour garantir la disponibilité, la sécurité et l'intégrité du système d'information et des données.
+
+ACTIVITES :
+
+Politique de sécurité des SI
+
+-  Définit les objectifs, les priorités, anime le système de management de la sécurité de l'information (SMSI) et analyse les besoins
+
+-  Définit et met en place les procédures et les évalue
+
+-  Définit l'organisation et la politique de sécurité, alimente et met à jour le corpus documentaire
+
+Analyses de risques (prescription)
+
+-  Evalue les risques et les menaces, et les conséquences
+
+-  Fait remonter les éléments d'aide à la décision
+
+-  Étudie les moyens assurant la sécurité et s'assure de leur bonne utilisation
+
+-  Établit le plan d'actions et de prévention
+
+-  Procède à l'amendement des contrats
+
+Architecture technique et maintien en condition opérationnelle
+
+-  Intervient sur des missions d'architecture en cybersécurité en lien avec les parties prenantes internes et externes
+
+-  Effectue des missions techniques de maintien en condition opérationnelle de la cybersécurité
+
+Sensibilisation et formation sur les enjeux de la sécurité
+
+-  Définit et met en œuvre les instances et les outils
+
+-  Forme les équipes des directions opérationnelles et des lignes métiers
+
+-  Veille à la mise à jour de la charte de sécurité
+
+-  Anime des réunions de sensibilisation à la sécurité
+
+-  Conseille et soutient les collaborateurs de la DSI d ... spects sécurité
+
+-  Sensibilise et promeut les enjeux de la sécurité des SI auprès de tous les utilisateurs et de la direction générale
+
+Étude des moyens et préconisations
+
+-  Valide et évalue techniquement les outils de sécurité
+
+-  Définit les normes et des standards de sécurité
+
+-  Participe à l'élaboration des règles de sécurité au niveau global
+
+Audit, contrôle et incidents
+
+-  Garantit que les pl ... curité ont été faits suivant les pl ... ablis
+
+-  Garantit que les équipes ont pris toutes les mesures permettant de gérer la sécurité
+
+-  Réalise régulièrement des tests de vulnérabilités, définit et suit les pl ... ions correctives
+
+-  Assure le suivi et le traitement des incidents de sécurité
+
+Veille technologique et prospective
+
+-  Suit et communique les évolutions réglementaires et techniques de son domaine
+
+-  Assure la veille sur les évolutions nécessaires pour garantir la sécurité logique et physique du SI d ... nsemble
+
+Animation des comités de sécurité
+
+-  Anime le comité d'homologation RGS et le comité opérationnel de sécurité
+
+-  Peut être amené.e à encadrer un.e  ... e issu.e d'une formation d'ingénieur (PolyTech).
+
+
+Référence de l'offre : 1tu61rnvr6",2026-09-22T21:03:19.698Z,https://candidat.francetravail.fr/offres/recherche/detail/7102929
+44,6969614,Opérateur de systèmes d'information et de communication (H/F),Entreprise inconnue,54 - Thuilley-aux-Groseilles,CDI,"Description du poste :
+
+Vos missions consistent à :
+-Mise en service, entretenir, suivre, réparer et démonter des ensembles relevant du domaine des télécommunications.
+-Assurer l'installation simple de moyens de télécommunications (câbles, téléphones.)
+-Mesurer et évaluer les performances d'un système d'information
+-Assurer l'identification différenciée des anomalies de fonctionnement imputables aux matériels et aux logiciels relevant du domaine des télécommunications
+-Assurer le ravitaillement, stockages et déstockage des matériels
+-Intervenant système ATM
+-Entretien des véhicules mis à disposition
+-Obligation de rendre compte de tout dysfonctionnement des systèmes d'information et de communication susceptible d'altérer la gestion et sécurité du trafic aérien
+-Appliquer les procédures liées au système de management de la sécurité.
+
+Description du profil :
+
+Le candidat devra faire preuve de connaissances confirmées des systèmes d'information et de télécommunications, indispensables à la gestion et au suivi des opérations, ainsi que d'une connaissance approfondie de la chaîne DANZ Nord-Est.
+Dans le cadre de ses fonctions, il sera amené à suivre des stages techniques en lien avec sa fonction et son poste, ainsi qu'une formation à la gestion et au suivi de petits projets, afin de consolider et développer ses compétences",2026-09-18T03:18:24.345Z,https://candidat.francetravail.fr/offres/recherche/detail/6969614
+45,5566516,Chef de Projet Technique Réalisation Systèmes d'Information (H/F),Entreprise inconnue,54 - Nancy,CDI,"Description du poste :
+
+Vous coordonnerez l'ensemble de l'action de conduite des projets des SI métiers de la responsabilité du BSN en assurant directement le pilotage de certains, afin de garantir l'interopérabilité et la couverture fonctionnelle avec d'autres systèmes en interface. Vous réalisez le plan de charge annuel des systèmes d'information.
+Vous aurez pour principales missions Organiser la conduite de projets de SI au sein du BSN.
+- Préparer la contractualisation (CCTP) de projets de SI.
+- Piloter une équipe intégrée de conduite de projet.
+- Suivre la réalisation et le Maintien en Condition Opérationnelle (MCO) des systèmes et des projets.
+- Concevoir et contrôler l'architecture fonctionnelle, logicielle et technique des applications ou composant des SI métiers.
+- Participer à la gestion du portefeuille SI du SEO.
+- Représenter le SEO dans les diverses instances et travaux du domaine.
+
+Description du profil :
+
+Vous êtes issu du domaine des spécialités SIC et disposez d'une connaissance des instances ministérielles. Une expérience en conduite de projet sera idéalement valorisée. Si vous correspondez à ce profil, nous vous invitons à postuler afin de rejoindre notre équipe dynamique !",2026-07-30T03:23:10.000Z,https://candidat.francetravail.fr/offres/recherche/detail/5566516
+46,5355971,Expert Risques Cyber et Sécurité des Systèmes d'Information (H/F),Entreprise inconnue,54 - Nancy,CDI,"Description du poste :
+
+Intégré à la Cellule Contrôle et Cyber-Protection (CCP), répartie entre les sites de Nancy et de Chalon-sur-Saône, vous réaliserez les missions pilotées par l'officier de sécurité des systèmes d'information de chaîne (OSSI-C).
+Ainsi, vous Participez et menez des actions de contrôle SSI au sein des établissements du SEO Aidez au suivi et à la mise en œuvre des homologations des SI du SEO Participez à la sensibilisation SSI des personnels du SEO Conseillez les utilisateurs et administrateurs pour exploiter de manière optimale les Procédures d'Exploitation de Sécurité (PES) et la réglementation en vigueur.
+De manière plus ponctuelle, vous apporterez également une aide à la rédaction de dossiers d'homologation, ainsi qu'à la réponse aux plans d'action SSI.
+
+Description du profil :
+
+Vous disposez d'expérience sur un poste similaire et maitrisez les règles élémentaires d'hygiène en cybersécurité.
+Vous êtes également autonome, organisé et méthodique.",2026-07-23T03:21:19.000Z,https://candidat.francetravail.fr/offres/recherche/detail/5355971
+47,6866308,Administrateur (périmètre Linux) F/H,Mutuelle Nationale Territoriale,54 - Vandœuvre-lès-Nancy,CDD,"La MNT, Mutuelle Nationale Territoriale entité du Groupe VYV, est la première mutuelle de la fonction publique territoriale. La MNT protège plus de 1,1 million de personnes en santé comme en prévoyance. Les valeurs du mutualisme et du Service Public sont les pierres angulaires de notre action. Notre mission : assurer la pleine santé physique, psychologique et économique du monde territorial.
+
+Au sein du service infrastructure de notre Département production, nous recrutons un.e Administrateur (périmètre Linux), dans le cadre d'un contrat à durée déterminée (du 1er décembre 2026 au 31 mai 2027). Le poste est basé à Vandoeuvre-lès-Nancy ou au siège social (Paris 15ème).
+
+En tant qu'Administrateur, vos missions sont les suivantes :
+Participer aux activités d'administration des systèmes Linux (Debian & Redhat),
+Déploiement/paramétrage de serveurs,
+Déploiement/paramétrage d'applications,
+Elaborer puis construire des solutions que vous accompagnez jusqu'à la mise en exploitation sur votre périmètre technique,
+Veiller à apporter votre expertise aux différents projets,
+Participer aux projets d'évolution ou de transformation de l'infrastructure de conteneurisation (Kubernetese) de l'entreprise et composants associés,
+Proposer des améliorations et mettre en oeuvre les solutions technologiques les plus adaptées au contexte de la MNT, dans le but d'optimiser les performances et les coûts,
+Traiter les incidents de niveau 2, participer au processus de gestion des problèmes et apporter son expertise dans la résolution des dysfonctionnements (N2).
+
+Vous avez une première expérience dans la gestion d'un parc de serveur Linux. Vous disposez des compétences techniques suivantes :
+Administration Linux
+Prometheus & Grafana
+Ansible
+Vous connaissez les environnements de conteneurisation (Docker). Vous connaissez les concepts liés à la virtualisation (VMWare) et au stockage.
+Les compétences suivantes seraient appréciées :
+Exploitation d'une plateforme Kubernetes (idéalement k8s),
+Utilisation de Gitlab et de sa CI/CD.
+
+Les avantages de la MNT :
+Vous cherchez un travail qui a du sens, dans une entreprise avec des valeurs fortes ?
+A ce titre, afin de préserver votre équilibre vie professionnelle et vie privée et vous accompagner dans l'évolution de votre carrière, la MNT a mis en place plusieurs dispositifs :
+- 15 jours de RTT par an (prorata temporis);
+- Forfait Télétravail.
+- Possibilité d'évolutions professionnelles au sein du Groupe VYV accompagné par un suivi RH et manager (EAE/EP/formations).
+
+Autres avantages : 
+- Tickets restaurant dématérialisés d'une valeur de 10,30 € (60% pris en charge par l'employeur) ;
+- Œuvres sociales du CSE et avantages du Groupe VYV ;
+- E-CESU services à la personne participation de l'employeur à hauteur de 45% (limite 800€/an) ;
+- Abonnement à un service de soutien scolaire en ligne entièrement financé par la MNT ;
+- CET (à partir de 6 mois d'ancienneté).
+
+Informations complémentaires :
+Lieu : Vandoeuvre-Lès-Nancy ou 3 square Max Hymans 75015
+Statut : Cadre
+Temps de travail : 209 Jours de travail par an
+Le poste est soumis à astreinte et des interventions en heure Non Ouvrée
+
+Merci de postuler directement en ligne, toute candidature reçue par mail ne pourra être traitée.
+Pour toute question relative au poste, suite à candidature, votre contact RH : Yass DIALLO-MARIETTE.
+E-mail : yass.diallo-
+
+Ce poste est ouvert aux travailleurs en situation de handicap ou assimilés au sens de l'article L.5212-13 du Code du travail. La MNT s'engage en faveur de la diversité, l'égalité professionnelle, l'emploi des travailleurs handicapés.",2026-09-15T00:33:49.639Z,https://candidat.francetravail.fr/offres/recherche/detail/6866308
+48,7431067,INFIRMIER DE PROGRAMMATION - UNITE DE MEDECINE AMBULATOIRE ONCOLOGIQUE - 50% ET 100% - H/F,Les Hôpitaux Sud Lorraine,54 - Vandœuvre-lès-Nancy,CDI,"Description :
+
+
+Département stratégie-projets-territoires-coopérations - Optimisation du parcours patients - Brabois adultes.
+
+Rythme de travail (Jour / Nuit / Alternance) :   Jour
+
+Date estimative de vacance de l'emploi : dès que possible
+
+Description de la mission :
+
+L'infirmier (e) de programmation réalise la programmation des demandes d'hospitalisation de l'UMAO des spécialités, dermatologie, pneumologie et hépato gastroentérologie
+
+Description des activités :
+
+Programmer l'ensemble des demandes d'hospitalisation
+
+Programmer les examens associés à l'hospitalisation
+
+Programmer l'intervention des différents professionnels durant l'hospitalisation
+
+Organiser une programmation cohérente des évènements en lien avec l'hospitalisation
+
+Optimiser la programmation de l'UMAO
+
+Assurer la déprogrammation et reprogrammation des rendez-vous d'hospitalisation ne pouvant avoir lieu en lien avec le praticien référent du patient
+
+Eviter les ruptures de prise en charge
+
+Informer, reformuler, être à l'écoute, rassurer le patient
+
+Recueillir toutes les informations concernant le profil du patient ainsi que les éléments de soins et modalités nécessaires à sa prise en charge
+
+Accueil téléphonique
+
+Réaliser des points quotidiens avec l'infirmière de coordination (nouvelles programmations, annulation.)
+
+  
+  
+Profil recherché :
+  
+  
+IDE avec un minimum d'ancienneté de 5 ans
+
+Niveau d'expertise en lien avec les prises en charge en oncologie
+
+Connaissances importantes en regard :
+
+ * Connaitre les différentes prises en charge. (Rythme des cycles des cures, temps d'administration.)
+ * Connaitre les modalités de programmation des différents examens.
+ * Connaitre les circuits de programmation des différents intervenants
+ * Connaitre et appliquer les règles d'identitovigilance
+ * Connaitre les outils bureautiques (Dx planning, Outlook.)
+ * Maintenir à jour les outils de programmation et documents remis au patient en collaboration avec l'équipe et le cadre de santé de l'OPP
+ * Alimenter la base documentaire des documents d'aide à la programmation du périmètre.
+ * S'inscrire dans la démarche d'amélioration continue de la qualité
+
+o     Respect et mise en application des protocoles
+
+o     Suivre les formations institutionnelles obligatoires et spécifiques à service
+
+o     Promouvoir le signalement des évènements indésirables
+
+Capacités à :
+
+Optimiser la programmation
+
+Analyser
+
+Organiser
+
+Communiquer
+
+Collaborer avec les différents interlocuteurs
+
+Transmettre et partager les informations
+
+Qualités et valeurs :
+
+Rigueur
+
+Organisé
+
+Méthodique
+
+Dynamique
+
+Sens du service dans les unités
+
+Date limite de dépôt des candidatures : 25 SEPTEMBRE 2026
+
+POUR LE PERSONNEL DU CHRU DE NANCY, NOUS VOUS REMERCIONS D'INDIQUER VOTRE NUMÉRO DE MATRICULE SUR VOTRE CANDIDATURE OU DE JOINDRE COMPLÉTÉ, LE MODÈLE DE LETTRE DE MOTIVATION DISPONIBLE SUR L'INTRANET ACCOMPAGNÉ D'UN CV À JOUR.
+
+ 
+
+ 
+",2026-09-26T19:35:26.657Z,https://candidat.francetravail.fr/offres/recherche/detail/7431067
+49,6692050,INFIRMIER DE PROGRAMMATION - UNITE DE MEDECINE AMBULATOIRE ONCOLOGIQUE - 50% ET 100% - H/F,"""""",54 - Meurthe-et-Moselle,CDI,"Oxilia est un acteur majeur des services à la personne. Notre mission est de mettre en relation les prestataires de services à domicile avec les particuliers qui ont besoin d'assistance, de prise en charge au domicile.
+
+                             Oxilia vous propose cette offre d'emploi à pourvoir prochainement.
+
+Descriptif du poste : D amp eacute partement strat amp eacute gie projets territoires coop amp eacute rations  Optimisation du parcours patients  Brabois adultes Rythme de travail Jour  Nuit  Alternance : JourDate estimative de vacance de l amp apos emploi : d amp egrave s que possibleDescription de la mission :L amp apos infirmier e de programmation r amp eacute alise la programmation des demandes d amp apos hospitalisation de l amp apos UMAO des sp amp eacute cialit amp eacute s dermatologie pneumologie et h amp eacute pato gastroent amp eacute rologieDescription des activit amp eacute s :Programmer l amp apos ensemble des demandes d amp apos hospitalisationProgrammer les examens associ amp eacute s amp agrave l amp apos hospitalisationProgrammer l amp apos intervention des diff amp eacute rents professionnels durant l amp apos hospitalisationOrganiser une programmation coh amp eacute rente des amp eacute v amp egrave nements en lien avec l amp apos hospitalisationOptimiser la programmation de l amp apos UMAOAssurer la d amp eacute programmation et reprogrammation des rendez vous d amp apos hospitalisation ne pouvant avoir lieu en lien avec le praticien r amp eacute f amp eacute rent du patientEviter les ruptures de prise en chargeInformer reformuler  amp ecirc tre amp agrave l amp apos amp eacute coute rassurer le patientRecueillir toutes les informations concernant le profil du patient ainsi que les amp eacute l amp eacute ments de soins et modalit amp eacute s n amp eacute cessaires amp agrave sa prise en chargeAccueil t amp eacute l amp eacute phoniqueR amp eacute aliser des points quotidiens avec l amp apos infirmi amp egrave re de coordination nouvelles programmations annulation Profil recherch amp eacute :IDE avec un minimum d amp apos anciennet amp eacute de 5 ansNiveau d amp apos expertise en lien avec les prises en charge en oncologieConnaissances importantes en regard :Connaitre les diff amp eacute rentes prises en charge  Rythme des cycles des cures temps d amp apos administration Connaitre les modalit amp eacute s de programmation des diff amp eacute rents examens Connaitre les circuits de programmation des diff amp eacute rents intervenantsConnaitre et appliquer les r amp egrave gles d amp apos identitovigilanceConnaitre les outils bureautiques Dx planning Outlook Maintenir amp agrave jour les outils de programmation et documents remis au patient en collaboration avec l amp apos amp eacute quipe et le cadre de sant amp eacute de l amp apos OPPAlimenter la base documentaire des documents d amp apos aide amp agrave la programmation du p amp eacute rim amp egrave tre S amp apos inscrire dans la d amp eacute marche d amp apos am amp eacute lioration continue de la qualit amp eacute o Respect et mise en application des protocoleso Suivre les formations institutionnelles obligatoires et sp amp eacute cifiques amp agrave serviceo Promouvoir le signalement des amp eacute v amp egrave nements ind amp eacute sirablesCapacit amp eacute s amp agrave :Optimiser la programmationAnalyserOrganiserCommuniquerCollaborer avec les diff amp eacute rents interlocuteursTransmettre et partager les informationsQualit amp eacute s et valeurs :RigueurOrganis amp eacute M amp eacute thodiqueDynamiqueSens du service dans les unit amp eacute sDate limite de d amp eacute p amp ocirc t des candidatures : 25 septembre 2026Pour le personnel du CHRU de Nancy nous vous remercions d amp apos indiquer votre num amp eacute ro de matricule sur votre candidature ou de joindre compl amp eacute t amp eacute  le mod amp egrave le de lettre de motivation disponible sur l amp apos Intranet accompagn amp eacute d amp apos un CV amp agrave jour Les informations de profil figurent dans le descriptif du poste Postulez sur le site carri amp egrave re : https: hopitauxsudlorraine softy pro offre 216608?idt=159",2026-09-07T11:00:40.044Z,https://candidat.francetravail.fr/offres/recherche/detail/6692050
+50,6645473,INFIRMIER DE PROGRAMMATION - UNITE DE MEDECINE AMBULATOIRE ONCOLOGIQUE - 50% ET 100% - H/F,FHF,54 - Nancy,CDI,"Descriptif du poste :
+Pôle / Service / Site :
+Département stratégie-projets-territoires-coopérations 
+-Optimisation du parcours patients 
+-Brabois adultes.
+
+Rythme de travail (Jour / Nuit / Alternance) :
+Jour Date estimative de vacance de l'emploi :
+septembre 2026 Description de la mission :
+L'infirmier (e) de programmation réalise la programmation des demandes d'hospitalisation de l'UMAO des spécialités, dermatologie, pneumologie et hépato gastroentérologie Description des activités :
+Programmer l'ensemble des demandes d'hospitalisation Programmer les examens associés à l'hospitalisation Programmer l'intervention des différents professionnels durant l'hospitalisation Organiser une programmation cohérente des évènements en lien avec l'hospitalisation Optimiser la programmation de l'UMAO Assurer la déprogrammation et reprogrammation des rendez-vous d'hospitalisation ne pouvant avoir lieu en lien avec le praticien référent du patient Eviter les ruptures de prise en charge Informer, reformuler, être à l'écoute, rassurer le patient Recueillir toutes les informations concernant le profil du patient ainsi que les éléments de soins et modalités nécessaires à sa prise en charge Accueil téléphonique Réaliser des points quotidiens avec l'infirmière de coordination (nouvelles programmations, annulation) Profil recherché :
+IDE avec un minimum d'ancienneté de 5 ans Niveau d'expertise en lien avec les prises en charge en oncologie Connaissances importantes en regard :
+Connaitre les différentes prises en charge.
+
+(Rythme des cycles des cures, temps d'administration) Connaitre les modalités de programmation des différents examens.
+
+Connaitre les circuits de programmation des différents intervenants Connaitre et appliquer les règles d'identitovigilance Connaitre les outils bureautiques (Dx planning, Outlook) Maintenir à jour les outils de programmation et documents remis au patient en collaboration avec l'équipe et le cadre de santé de l'OPP Alimenter la base documentaire des documents d'aide à la programmation du périmètre.
+
+S'inscrire dans la démarche d'amélioration continue de la qualité o Respect et mise en application des protocoles o Suivre les formations institutionnelles obligatoires et spécifiques à service o Promouvoir le signalement des évènements indésirables Capacités à :
+Optimiser la programmation Analyser Organiser Communiquer Collaborer avec les différents interlocuteurs Transmettre et partager les informations Qualités et valeurs :
+Rigueur Organisé Méthodique Dynamique Sens du service dans les unités Date limite de dépôt des candidatures :
+21 aout 2026 Pour le personnel du CHRU de Nancy, nous vous remercions d'indiquer votre numéro de matricule sur votre candidature ou de joindre complété, le modèle de lettre de motivation disponible sur l'Intranet accompagné d'un CV à jour.
+
+Postulez sur le site carrière :
+https:
+//hopitauxsudlorraine.softy.pro/offre/216608?idt=159
+
+Contrat :
+CDI",2026-09-05T07:04:31.634Z,https://candidat.francetravail.fr/offres/recherche/detail/6645473
+51,215MCMH,EMPLOYÉ POLYVALENT DE RESTAURATION apprentissage (H/F),,,CDD,"Dans le cadre de son ouverture, MÖMENT, nouveau concept de restauration dans le secteur de Nancy, recherche un(e) employé(e) polyvalent(e) en apprentissage  en cuisine et/ou en salle
+Vous vous formez :
+- Accueil, conseil et prise de commande ;
+- service en salle et vente additionnelle ;
+- préparation et service des boissons ;
+- dressage et service des desserts ;
+- encaissements et contrôles de caisse ;
+- mise en place, réapprovisionnement et nettoyage ;
+- respect des règles d'hygiène et des procédures MÖMENT ;
+- coordination avec la cuisine.
+- Mise en place et préparation des ingrédients ;
+- préparations et cuissons ;
+- assemblage et dressage selon les fiches techniques MÖMENT ;
+- respect des recettes, portions et standards de qualité ;
+- gestion des produits, stockage et rotation ;
+- application des règles d'hygiène et de sécurité alimentaire ;
+
+Conditions
+Lieu : secteur Nancy
+Horaires : midi et/ou soir selon planning
+Disponibilité : samedi
+Rémunération : selon profil et âge
+Prise de poste : 16 novembre 2026
+
+Avant de postuler, assurez-vous de répondre à l'un des critères suivants :
+Critères d'éligibilité pour le contrat d'apprentissage :
+
+- Avoir jusqu'à 29 ans révolus.
+- Avoir jusqu'à 35 ans révolus si le nouveau contrat d'apprentissage est conclu dans l'année suivant un précédent contrat, à condition qu'il mène à un diplôme supérieur ou que le précédent contrat ait été rompu pour des raisons indépendantes de la volonté de l'apprenti.
+- Sans limite d'âge pour :
+> > Les candidats impliqués dans la création ou la reprise d'une entreprise nécessitant ce diplôme.
+> > Les apprentis inscrits sur la liste des sportifs de haut niveau.
+> > Les candidats reconnu travailleurs handicapés.
+> > Une prolongation d'un an est possible en cas d'échec à l'obtention du diplôme avec un nouvel employeur.",2026-10-21T10:08:17.567Z,
+52,215JGWX,Alternance - Employé de rayon Fruits et Légumes (H/F),,,CDD,"Nous recherchons un Employé de rayon Fruits et Légumes H/F pour notre enseigne partenaire spécialisée dans le commerce.
+
+*Ce poste est à pourvoir en contrat d'apprentissage uniquement. Accessible jusqu'à 29 ans révolus sauf si reconnu travailleur handicapé.
+
+En vue d'obtenir un Titre Professionnel reconnu par le ministère de l'emploi et des branches professionnelles !
+
+ * Un Titre Professionnel Employé(e) commercial(e) (niveau 3-CAP),
+ * Un Titre Professionnel Conseiller(e) de vente (niveau 4-BAC),
+
+ Vos missions :
+
+ * La mise en rayon de la marchandise,
+ * La fiabilisation du stock,
+ * L'entretien et la propreté du rayon, magasin,
+ * L'encaissement des produits
+ * Mise en place du rayon fraîche découpe
+
+ Pourquoi choisir l'apprentissage ?
+
+ * Formation 100% prise en charge et rémunérée.
+ * Ordinateur offert (valeur 500€).
+ * Formation à distance en visio (1 jour par semaine).
+ * Carte étudiante des métiers : réductions et avantages exclusifs.
+
+ Conditions d'éligibilité :
+
+ * Accessible dès 15 ans (si sortie de 3e) jusqu'à 29 ans.
+ * Sans limite d'âge pour les personnes en situation de handicap.
+
+ Fourchette de salaire : de 504€ à 1867€ brut.
+
+Date de démarrage de la formation : accessible à tout moment de l'année.
+
+Si vous êtes motivé(e) et prêt(e) à relever ces défis, nous vous encourageons à postuler !
+
+Profil recherché : 
+
+ * Vous souhaitez préparer un Titre Professionnel en alternance dans le domaine du commerce.
+ * Dynamique, souriant(e) et motivé(e), vous aimez le contact avec la clientèle et avez le sens du service.
+ * Vous êtes rigoureux(se), à l'écoute, et appréciez le travail en équipe.
+   Une première expérience dans la vente ou la distribution est un plus, mais n'est pas obligatoire.",2026-10-16T17:02:31.483Z,
+53,215HHDP,Employé polyvalent / Employée polyvalente de restauration (H/F),,,CDD,"Offre collectée par La bonne alternance : L'Équipier polyvalent de restauration rapide travaille principalement en fast-food, garantissant un service rapide et de qualité. Assure la préparation et la vente de produits alimentaires selon les normes d'hygiène Gère les commandes et le stock de produits frais Maintient la propreté des équipements et du lieu de travail Peut effectuer des livraisons en respectant les délais promis Fournit un service clientèle rapide et courtois Participe à la gestion quotidienne du restaurant ou du point de vente Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",2026-10-16T05:30:50.661Z,
+54,214ZKQV,Apprenti(e) vendeur / vendeuse en boulangerie-pâtisserie (H/F),,,CDD,"Vous effectuerez l'accueil des clients, la vente et l'encaissement du pain, des viennoiseries, pâtisseries et boissons.
+Vous serez  3 semaines en entreprise et  1 semaine en centre de formation en vue de préparer un CAP ou BAC PRO ou BTS
+Vous travaillerez soit le matin 07-13h, soit 10h-16h, soit l'après-midi 13h-19h.
+
+Vous pouvez postuler en téléphonant à l'établissement au 06.09.31.22.66.",2026-10-09T08:40:26.594Z,
+55,214WKNY,Employé de rayon frais libre-service en contrat d'apprentissage (H/F),,,CDD,"Le magasin Leclerc Nancy 2 Rives recrute un(e) Employé(e) de rayon frais libre-service (H/F) dans le cadre d'un contrat d'apprentissage de 8 mois.
+Le contrat, basé sur un rythme de 35h par semaine, débutera en novembre 2026.
+
+Pour développer vos compétences, vous aurez comme mission :
+- approvisionner et mettre en valeur les rayons pour offrir une présentation attractive et soignée
+- veiller à la bonne tenue du rayon,  propreté, balisage, étiquetage et mise en avant des produits
+-  accueillir, conseiller et renseigner la clientèle pour garantir une expérience d'achat agréable
+-  gérer la rotation des produits et les stocks afin d'assurer fraîcheur, disponibilité et qualité
+-  participer à la dynamique commerciale du magasin en contribuant à la satisfaction client
+- respecter la chaîne du froid et les règles d'hygiène et de sécurité alimentaire
+
+Horaires :  amplitude horaire 5h - 12h, travail d'après-midi un vendredi & un samedi sur deux.
+
+Salaire : de 802,82 à 1.867,02 € BRUT selon l'âge
+
+À l'issue de ce contrat, vous pourrez obtenir un Titre Professionnel Conseiller(ère) de vente dans le cadre d'un contrat d'apprentissage. 
+Cette qualification est reconnue au RNCP (Répertoire National des Certifications Professionnelles), niveau 4, équivalence BAC. 
+
+Les avantages de la formation : 
+- formation gratuite et rémunérée
+- prêt d'un ordinateur portable
+- accessible aux personnes en situation de handicap avec mesures d'accompagnement spécifiques.
+- aucun diplôme ni expérience requis. 
+- plusieurs aides de l'état : aide au logement, .
+
+Profil recherché : 
+- vous souhaitez préparer un diplôme de niveau 4 (BAC) et acquérir une expérience pratique
+- vous êtes une personne dynamique, curieuse et intéressée
+- le permis B n'est pas obligatoire mais un moyen de transport sécurisé est nécessaire
+Remarque : si vous avez déjà obtenu un Titre Professionnel Conseiller(ère) de vente vous n'êtes pas éligible à cette offre
+
+Ce que nous offrons : 
+- un accompagnement personnalisé 
+- une expérience enrichissante
+- un diplôme vous permettant d'évoluer dans le domaine du commerce
+
+Voici les conditions d'éligibilité au contrat d'apprentissage 
+- pour les personnes âgées de 18 à 29 ans révolus.
+- pour les 30 ans et plus, si vous êtes reconnu travailleur handicapé, sportif de haut niveau ou si vous avez un projet de création/reprise d'entreprise nécessitant un diplôme",2026-10-06T15:20:50.861Z,

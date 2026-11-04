@@ -84,7 +84,6 @@ class Database:
 
         return resultat[0]
 
-
     def vider_bdd(self):
         connexion = self.connexion_bdd()
         curseur = connexion.cursor()
