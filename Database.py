@@ -57,8 +57,12 @@ class Database:
             url
         ))
 
+        offre_ajoutee = curseur.rowcount == 1
+
         connexion.commit()
         connexion.close()
+
+        return offre_ajoutee
 
 
     def recuperer_offres(self):
