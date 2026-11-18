@@ -8,4 +8,9 @@ TYPE_RECHERCHE = "alternance"
 DEPARTEMENT = "54"
 LIEU = "Nancy"
 
-CHEMIN_BDD = DOSSIER_DONNEES / f"offres_{TYPE_RECHERCHE}.db"
+
+def obtenir_chemin_bdd(type_recherche):
+    return DOSSIER_DONNEES / f"offres_{type_recherche}.db"
+
+
+CHEMIN_BDD = obtenir_chemin_bdd(TYPE_RECHERCHE)

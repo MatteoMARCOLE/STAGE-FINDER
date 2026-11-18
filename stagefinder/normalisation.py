@@ -7,7 +7,10 @@ def normaliser_offre_france_travail(offre):
         "id_offre": f"france_travail:{offre.get('id')}",
         "titre": offre.get("intitule"),
         "entreprise": entreprise.get("nom"),
-        "lieu": lieu_travail.get("codePostal"),
+        "lieu": (
+            lieu_travail.get("libelle")
+            or lieu_travail.get("codePostal")
+        ),
         "contrat": offre.get("typeContrat"),
         "description": offre.get("description"),
         "date_creation": offre.get("dateCreation"),

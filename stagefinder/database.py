@@ -64,8 +64,13 @@ class Database:
         connexion = self.connexion_bdd()
         curseur = connexion.cursor()
 
+        offre_existe = curseur.execute(
+            "SELECT 1 FROM offres WHERE id_offre = ?",
+            (id_offre,),
+        ).fetchone() is not None
+
         curseur.execute("""
-            INSERT OR IGNORE INTO offres (
+            INSERT INTO offres (
                 id_offre,
                 titre,
                 entreprise,
@@ -77,6 +82,15 @@ class Database:
                 source
             )
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ON CONFLICT(id_offre) DO UPDATE SET
+                titre = excluded.titre,
+                entreprise = excluded.entreprise,
+                lieu = excluded.lieu,
+                contrat = excluded.contrat,
+                description = excluded.description,
+                date_creation = excluded.date_creation,
+                url = excluded.url,
+                source = excluded.source
         """, (
             id_offre,
             titre,
@@ -89,10 +103,9 @@ class Database:
             source,
         ))
 
-        offre_ajoutee = curseur.rowcount == 1
         connexion.commit()
         connexion.close()
-        return offre_ajoutee
+        return not offre_existe
 
     def recuperer_offres(self):
         connexion = self.connexion_bdd()

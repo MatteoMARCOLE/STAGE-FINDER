@@ -61,18 +61,27 @@ class FranceTravailAPI:
         print("Authentification France Travail réussie")
         return token
 
-    def rechercher_offres_departement(self, departement):
+    def rechercher_offres(self, departement=None, mots_cles=None):
+        parametres = {}
+        if departement:
+            parametres["departement"] = departement
+        if mots_cles:
+            parametres["motsCles"] = mots_cles
+
         reponse = requests.get(
             URL_OFFRES,
             headers={
                 "Authorization": f"Bearer {self.token}",
                 "Accept": "application/json",
             },
-            params={"departement": departement},
+            params=parametres,
             timeout=10,
         )
         reponse.raise_for_status()
         return reponse.json().get("resultats", [])
+
+    def rechercher_offres_departement(self, departement):
+        return self.rechercher_offres(departement=departement)
 
     def rechercher_offres_contrat(self, contrat):
         reponse = requests.get(
